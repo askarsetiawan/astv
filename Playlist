@@ -330,6 +330,21 @@ https://tv.rodja.live/aliman/ngrp:HD_all/playlist.m3u8
 #EXTINF:-1  group-title="Islami" tvg-logo="https://i.ibb.co/smjzccw/Al-Iman-TV.png",Al-Iman  TV
 https://tv.rodja.live/aliman/ngrp:HD_all/playlist.m3u8
 
+#EXTINF:-1  group-title="Islami" tvg-logo="https://i.ibb.co/smjzccw/Al-Iman-TV.png",Al-Iman  TV
+https://tv.rodja.live/aliman/ngrp:HD_all/playlist.m3u8
+
+#EXTINF:-1  group-title="Indonesia" tvg-logo="https://i.ibb.co/smjzccw/Al-Iman-TV.png",Moji  TV
+http://rr2.dens.tv/s/s41/index.m3u8?app_type=web&userid=50n13N0v14nd1&tkn=829341hrjhaq0q30q&chname=O_Channel30
+
+#EXTINF:-1  group-title="Sports" tvg-logo="https://i.ibb.co/smjzccw/Al-Iman-TV.png",Moji  TV
+http://rr2.dens.tv/s/s41/index.m3u8?app_type=web&userid=50n13N0v14nd1&tkn=829341hrjhaq0q30q&chname=O_Channel30
+
+#EXTINF:-1  group-title="Indonesia" tvg-logo="https://i.ibb.co/smjzccw/Al-Iman-TV.png",AniPlus
+http://210.210.155.35/dr9445/h/h02/index.m3u8
+
+#EXTINF:-1  group-title="Anak" tvg-logo="https://i.ibb.co/smjzccw/Al-Iman-TV.png",AniPlus
+http://210.210.155.35/dr9445/h/h02/index.m3u8
+
 ========== MALAYSIA ==========
 
 #EXTINF:-1  group-title="Malaysia" tvg-logo="https://i.ibb.co/VgtCx8P/tv1.png",tv1
@@ -340,3 +355,12 @@ https://d25tgymtnqzu8s.cloudfront.net/smil:tv2/manifest.mpd
 
 #EXTINF:-1  group-title="Malaysia" tvg-logo="https://i.ibb.co/mz6tMcz/tv3.png",tv3
 https://live-sg1.global.ssl.fastly.net/live-hls/tonton1_480p/index.m3u8
+
+#EXTINF:-1  group-title="Malaysia" tvg-logo="https://i.ibb.co/rwDH799/unifi-sport-1.png",tv3
+https://unifi-live05.secureswiftcontent.com/UnifiHD/live11.mpd
+
+#EXTINF:-1  group-title="Sports" tvg-logo="https://i.ibb.co/rwDH799/unifi-sport-1.png",tv3
+https://unifi-live05.secureswiftcontent.com/UnifiHD/live11.mpd
+
+#EXTINF:-1  group-title="Sports" tvg-logo="https://i.ibb.co/rwDH799/unifi-sport-1.png",tv3
+https://unifi-live05.secureswiftcontent.com/UnifiHD/live11.mpd
