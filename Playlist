@@ -318,6 +318,19 @@ https://h1.intechmedia.net/intech/ch1.m3u8
 #EXTINF:-1  group-title="Islami" tvg-logo="https://i.ibb.co/3Nr062f/INSAN-TV.png",Insan  TV
 https://h1.intechmedia.net/intech/ch1.m3u8
 
+#EXTINF:-1  group-title="Indonesia" tvg-logo="https://i.ibb.co/fDZZSWj/Hijrah-TV.png",Hijrah  TV
+https://h1.intechmedia.net/intech/ch1.m3u8
+
+#EXTINF:-1  group-title="Islami" tvg-logo="https://i.ibb.co/fDZZSWj/Hijrah-TV.png",Hijrah  TV
+https://h1.intechmedia.net/intech/ch1.m3u8
+
+#EXTINF:-1  group-title="Indonesia" tvg-logo="https://i.ibb.co/smjzccw/Al-Iman-TV.png",Al-Iman  TV
+https://h1.intechmedia.net/intech/ch1.m3u8
+
+#EXTINF:-1  group-title="Islami" tvg-logo="https://i.ibb.co/smjzccw/Al-Iman-TV.png",Al-Iman  TV
+https://h1.intechmedia.net/intech/ch1.m3u8
+
+
 ========== MALAYSIA ==========
 
 #EXTINF:-1  group-title="Malaysia" tvg-logo="https://i.ibb.co/VgtCx8P/tv1.png",tv1
