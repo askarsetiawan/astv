@@ -312,6 +312,12 @@ http://45.126.83.51/qwr9ew/s/s27/02.m3u8
 #EXTINF:-1  group-title="Islami" tvg-logo="https://i.ibb.co/hCrrkVR/Makkah-TV.png",Makkah  TV
 http://45.126.83.51/qwr9ew/s/s27/02.m3u8
 
+#EXTINF:-1  group-title="Islami" tvg-logo="https://i.ibb.co/3Nr062f/INSAN-TV.png",Insan  TV
+https://h1.intechmedia.net/intech/ch1.m3u8
+
+#EXTINF:-1  group-title="Islami" tvg-logo="https://i.ibb.co/3Nr062f/INSAN-TV.png",Insan  TV
+https://h1.intechmedia.net/intech/ch1.m3u8
+
 ========== MALAYSIA ==========
 
 #EXTINF:-1  group-title="Malaysia" tvg-logo="https://i.ibb.co/VgtCx8P/tv1.png",tv1
