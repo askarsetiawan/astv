@@ -330,9 +330,6 @@ https://tv.rodja.live/aliman/ngrp:HD_all/playlist.m3u8
 #EXTINF:-1  group-title="Islami" tvg-logo="https://i.ibb.co/smjzccw/Al-Iman-TV.png",Al-Iman  TV
 https://tv.rodja.live/aliman/ngrp:HD_all/playlist.m3u8
 
-#EXTINF:-1  group-title="Islami" tvg-logo="https://i.ibb.co/smjzccw/Al-Iman-TV.png",Al-Iman  TV
-https://tv.rodja.live/aliman/ngrp:HD_all/playlist.m3u8
-
 #EXTINF:-1  group-title="Indonesia" tvg-logo="https://i.ibb.co/smjzccw/Al-Iman-TV.png",Moji  TV
 http://rr2.dens.tv/s/s41/index.m3u8?app_type=web&userid=50n13N0v14nd1&tkn=829341hrjhaq0q30q&chname=O_Channel30
 
@@ -356,7 +353,7 @@ https://d25tgymtnqzu8s.cloudfront.net/smil:tv2/manifest.mpd
 #EXTINF:-1  group-title="Malaysia" tvg-logo="https://i.ibb.co/mz6tMcz/tv3.png",tv3
 https://live-sg1.global.ssl.fastly.net/live-hls/tonton1_480p/index.m3u8
 
-#EXTINF:-1  group-title="Malaysia" tvg-logo="https://i.ibb.co/rwDH799/unifi-sport-1.png",tv3
+#EXTINF:-1  group-title="Malaysia" tvg-logo="https://i.ibb.co/rwDH799/unifi-sport-1.png",Unifi Sport 1
 https://unifi-live05.secureswiftcontent.com/UnifiHD/live11.mpd
 
 #EXTINF:-1  group-title="Sports" tvg-logo="https://i.ibb.co/rwDH799/unifi-sport-1.png",tv3
@@ -422,7 +419,50 @@ http://humiptv.live:8080/live/876465421460/087543135678/143060.ts
 #EXTINF:-1  group-title="Sports" tvg-logo="https://i.postimg.cc/cH2kCd4m/be-IN-Sports-Malaysia.png",beIN Sports 2
 http://humiptv.live:8080/live/876465421460/087543135678/143060.ts
 
+#EXTINF:-1  group-title="Malaysia" tvg-logo="https://i.postimg.cc/RCDLtWXm/Astro-Ceria.png",Astro Ceria
+http://humiptv.live:8080/live/876465421460/087543135678/143028.ts
 
+#EXTINF:-1  group-title="Malaysia" tvg-logo="https://i.postimg.cc/Kzqv9kYr/Astro-Aura.png",Astro Aura
+http://humiptv.live:8080/live/876465421460/087543135678/143055.ts
+
+#EXTINF:-1  group-title="Malaysia" tvg-logo="https://i.postimg.cc/sfJHBYNN/Astro-Citra.png",Astro Citra
+http://humiptv.live:8080/live/876465421460/087543135678/143029.ts
+
+#EXTINF:-1  group-title="Malaysia" tvg-logo="https://i.postimg.cc/MTJCbWxZ/Astro-Bollyone.png",Astro Bollyone
+http://humiptv.live:8080/live/876465421460/087543135678/142994.ts
+
+#EXTINF:-1  group-title="Malaysia" tvg-logo="https://i.ibb.co/qrbZ2Xs/astro-ria.png",Astro RIA
+http://kuchini.site:8080/tomstme300/tomasarenatelegramme300/158347
+
+#EXTINF:-1  group-title="Malaysia" tvg-logo="https://i.ibb.co/XkqKhj9/astro-awani.png",Astro Awani
+https://d2idp3hzkhjpih.cloudfront.net/out/v1/4b85d9c2bf97413eb0c9fd875599b837/index_3.m3u8
+
+#EXTINF:-1  group-title="Malaysia" tvg-logo="https://i.ibb.co/ZLn3MMf/astro-oasis.png",Astro Oasis
+http://23.237.10.66:16471
+
+#EXTINF:-1  group-title="Malaysia" tvg-logo="https://i.postimg.cc/mrNNZfg1/Astro-Prima.png",Astro Prima
+http://kuchini.site:8080/tomstme300/tomasarenatelegramme300/157467
+
+#EXTINF:-1  group-title="Malaysia" tvg-logo="https://i.postimg.cc/qvNkS3b6/Astro-Warna.png",Astro Warna
+http://humiptv.live:8080/live/876465421460/087543135678/143158.ts
+
+#EXTINF:-1  group-title="Malaysia" tvg-logo="https://i.postimg.cc/fTzytVfb/Astro-Xiao-Tai-Yang.png",Astro Xiao Tai Yang
+http://kuchini.site:8080/tomstme300/tomasarenatelegramme300/201164
+
+#EXTINF:-1  group-title="Malaysia" tvg-logo="https://i.postimg.cc/wTG4rbFY/Astro-Shuang-Xing.png",Astro Shuang Xing
+http://kuchini.site:8080/argoni150Con/twq965yhjfvxkmzaq/247428
+
+#EXTINF:-1  group-title="Malaysia" tvg-logo="https://i.postimg.cc/4dNWtb76/Astro-Quan-Jia.png",Astro Quan Jia
+http://humiptv.live:8080/live/876465421460/087543135678/143131.ts
+
+#EXTINF:-1  group-title="Malaysia" tvg-logo="https://i.postimg.cc/L6cW87T1/Astro-Rania.png",Astro Rania
+http://humiptv.live:8080/live/876465421460/087543135678/143033.ts
+
+#EXTINF:-1  group-title="Malaysia" tvg-logo="https://i.postimg.cc/tCbnW0bj/Astro-Sensasi.png",Astro Sensasi
+http://humiptv.live:8080/live/876465421460/087543135678/143035.ts
+
+#EXTINF:-1  group-title="Malaysia" tvg-logo="https://i.postimg.cc/wM1y2N2R/Astro-Tutor.png",Astro Tutor TV SK
+http://humiptv.live:8080/live/876465421460/087543135678/143049.ts
 
 ========== ESPANYOL ==========
 
