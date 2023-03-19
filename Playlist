@@ -464,6 +464,24 @@ http://humiptv.live:8080/live/876465421460/087543135678/143035.ts
 #EXTINF:-1  group-title="Malaysia" tvg-logo="https://i.postimg.cc/wM1y2N2R/Astro-Tutor.png",Astro Tutor TV SK
 http://humiptv.live:8080/live/876465421460/087543135678/143049.ts
 
+#EXTINF:-1  group-title="Malaysia" tvg-logo="https://i.ibb.co/dDjKhcD/Drama-sangat.png",Drama Sangat
+https://live-sg1.global.ssl.fastly.net/live-hls/tonton5_270p/index.m3u8
+
+#EXTINF:-1  group-title="Malaysia" tvg-logo="https://i.ibb.co/KL0fv3y/astro-supersport.png",Astro SuperSport 1
+http://iptv.dxdtv.xyz:8080/world@jcDGFsGbUpdQ/663J7yy3SPae/55543
+
+#EXTINF:-1  group-title="Malaysia" tvg-logo="https://i.ibb.co/KL0fv3y/astro-supersport.png",Astro SuperSport 2
+http://iptv.dxdtv.xyz:8080/world@jcDGFsGbUpdQ/663J7yy3SPae/55544
+
+#EXTINF:-1  group-title="Malaysia" tvg-logo="https://i.ibb.co/KL0fv3y/astro-supersport.png",Astro SuperSport 3
+http://iptv.dxdtv.xyz:8080/world@jcDGFsGbUpdQ/663J7yy3SPae/55545
+
+#EXTINF:-1  group-title="Malaysia" tvg-logo="https://i.ibb.co/KL0fv3y/astro-supersport.png",Astro SuperSport 4
+http://iptv.dxdtv.xyz:8080/world@jcDGFsGbUpdQ/663J7yy3SPae/55546
+
+#EXTINF:-1  group-title="Malaysia" tvg-logo="https://i.ibb.co/KL0fv3y/astro-supersport.png",Astro SuperSport 5
+https://no2.onlinewebtv.lol/ddy1/premium43/tracks-v1a1/mono.m3u8?referer=https://widevine.licenses4.me/&User-Agent=Mozilla/5.0 (Linux; Android 11; SM-A307GN Build/RP1A.200720.012; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/107.0.5304.91 Mobile Safari/537.36 Vinebre
+
 ========== ESPANYOL ==========
 
 #EXTINF:-1  group-title="Spanyol" tvg-logo="https://i.postimg.cc/hvJ0tmfH/be-IN-Sports-XTRA-n-Espanol.png",beIN Sports XTRA en Espanol
