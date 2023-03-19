@@ -306,6 +306,12 @@ http://122.248.43.138:1935/ch17/myStream/playlist.m3u8
 #EXTINF:-1  group-title="Islami" tvg-logo="https://i.ibb.co/sm1whvL/radar-tv.png",Radar  TV
 http://122.248.43.138:1935/ch17/myStream/playlist.m3u8
 
+#EXTINF:-1  group-title="Indonesia" tvg-logo="https://i.ibb.co/hCrrkVR/Makkah-TV.png",Makkah  TV
+http://45.126.83.51/qwr9ew/s/s27/02.m3u8
+
+#EXTINF:-1  group-title="Islami" tvg-logo="https://i.ibb.co/hCrrkVR/Makkah-TV.png",Makkah  TV
+http://45.126.83.51/qwr9ew/s/s27/02.m3u8
+
 ========== MALAYSIA ==========
 
 #EXTINF:-1  group-title="Malaysia" tvg-logo="https://i.ibb.co/VgtCx8P/tv1.png",tv1
