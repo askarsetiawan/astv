@@ -360,6 +360,54 @@ http://ott.tvri.co.id/Content/HLS/Live/Channel(TVRIsulutmanado)/index.m3u8
 #EXTINF:-1  group-title="Daerah" tvg-logo="https://i.ibb.co/Wvj9Nqf/TVRI-NASIONAL-ORANGE.png",TVRI Sulut
 http://ott.tvri.co.id/Content/HLS/Live/Channel(TVRIsulutmanado)/index.m3u8
 
+#EXTINF:-1  group-title="Indonesia" tvg-logo="https://i.ibb.co/Wvj9Nqf/TVRI-NASIONAL-ORANGE.png",TVRI Sulbar
+http://wpc.d1627.nucdn.net/80D1627/o-tvri/Content/HLS/Live/Channel(TVRIsulbarmajene)/index.m3u8?checkedby:iptvcat.com
+
+#EXTINF:-1  group-title="Daerah" tvg-logo="https://i.ibb.co/Wvj9Nqf/TVRI-NASIONAL-ORANGE.png",TVRI Sulbar
+http://wpc.d1627.nucdn.net/80D1627/o-tvri/Content/HLS/Live/Channel(TVRIsulbarmajene)/index.m3u8?checkedby:iptvcat.com
+
+#EXTINF:-1  group-title="Indonesia" tvg-logo="https://i.ibb.co/Wvj9Nqf/TVRI-NASIONAL-ORANGE.png",TVRI Sumatra Selatan
+http://ott.tvri.co.id/Content/HLS/Live/Channel(TVRIsumsel)/index.m3u8
+
+#EXTINF:-1  group-title="Daerah" tvg-logo="https://i.ibb.co/Wvj9Nqf/TVRI-NASIONAL-ORANGE.png",TVRI Sumatra Selatan
+http://ott.tvri.co.id/Content/HLS/Live/Channel(TVRIsumsel)/index.m3u8
+
+#EXTINF:-1  group-title="Indonesia" tvg-logo="https://i.ibb.co/Wvj9Nqf/TVRI-NASIONAL-ORANGE.png",TVRI Sumatra Barat
+http://ott.tvri.co.id/Content/HLS/Live/Channel(TVRISUMBARPADANG)/index.m3u8
+
+#EXTINF:-1  group-title="Daerah" tvg-logo="https://i.ibb.co/Wvj9Nqf/TVRI-NASIONAL-ORANGE.png",TVRI Sumatra Barat
+http://ott.tvri.co.id/Content/HLS/Live/Channel(TVRISUMBARPADANG)/index.m3u8
+
+#EXTINF:-1  group-title="Indonesia" tvg-logo="https://i.ibb.co/Wvj9Nqf/TVRI-NASIONAL-ORANGE.png",TVRI Papua
+http://wpc.d1627.nucdn.net/80D1627/o-tvri/Content/HLS/Live/Channel(TVRIPAPUA)/index.m3u8?checkedby:iptvcat.com
+
+#EXTINF:-1  group-title="Daerah" tvg-logo="https://i.ibb.co/Wvj9Nqf/TVRI-NASIONAL-ORANGE.png",TVRI Papua
+http://wpc.d1627.nucdn.net/80D1627/o-tvri/Content/HLS/Live/Channel(TVRIPAPUA)/index.m3u8?checkedby:iptvcat.com
+
+#EXTINF:-1  group-title="Indonesia" tvg-logo="https://i.ibb.co/Wvj9Nqf/TVRI-NASIONAL-ORANGE.png",TVRI Kalbar
+http://ott.tvri.co.id/Content/HLS/Live/Channel(TVRIkalbar)/index.m3u8
+
+#EXTINF:-1  group-title="Daerah" tvg-logo="https://i.ibb.co/Wvj9Nqf/TVRI-NASIONAL-ORANGE.png",TVRI Kalbar
+http://ott.tvri.co.id/Content/HLS/Live/Channel(TVRIkalbar)/index.m3u8
+
+#EXTINF:-1  group-title="Indonesia" tvg-logo="https://i.ibb.co/Wvj9Nqf/TVRI-NASIONAL-ORANGE.png",TVRI Kalsel
+http://wpc.d1627.nucdn.net/80D1627/o-tvri/Content/HLS/Live/Channel(TVRIKALSELBANJARMSN)/index.m3u8?checkedby:iptvcat.com
+
+#EXTINF:-1  group-title="Daerah" tvg-logo="https://i.ibb.co/Wvj9Nqf/TVRI-NASIONAL-ORANGE.png",TVRI Kalsel
+http://wpc.d1627.nucdn.net/80D1627/o-tvri/Content/HLS/Live/Channel(TVRIKALSELBANJARMSN)/index.m3u8?checkedby:iptvcat.com
+
+#EXTINF:-1  group-title="Indonesia" tvg-logo="https://i.ibb.co/Wvj9Nqf/TVRI-NASIONAL-ORANGE.png",TVRI Kalteng
+http://wpc.d1627.nucdn.net/80D1627/o-tvri/Content/HLS/Live/Channel(TVRIKALTENG)/index.m3u8?checkedby:iptvcat.com
+
+#EXTINF:-1  group-title="Daerah" tvg-logo="https://i.ibb.co/Wvj9Nqf/TVRI-NASIONAL-ORANGE.png",TVRI Kalteng
+http://wpc.d1627.nucdn.net/80D1627/o-tvri/Content/HLS/Live/Channel(TVRIKALTENG)/index.m3u8?checkedby:iptvcat.com
+
+#EXTINF:-1  group-title="Indonesia" tvg-logo="https://i.ibb.co/Wvj9Nqf/TVRI-NASIONAL-ORANGE.png",TVRI Kaltim
+http://ott.tvri.co.id/Content/HLS/Live/Channel(TVRIKaltimsamarinda)/index.m3u8?checkedby:iptvcat.com
+
+#EXTINF:-1  group-title="Daerah" tvg-logo="https://i.ibb.co/Wvj9Nqf/TVRI-NASIONAL-ORANGE.png",TVRI Kaltim
+http://ott.tvri.co.id/Content/HLS/Live/Channel(TVRIKaltimsamarinda)/index.m3u8?checkedby:iptvcat.com
+
 ========== MALAYSIA ==========
 
 #EXTINF:-1  group-title="Malaysia" tvg-logo="https://i.ibb.co/VgtCx8P/tv1.png",tv1
