@@ -330,10 +330,10 @@ https://tv.rodja.live/aliman/ngrp:HD_all/playlist.m3u8
 #EXTINF:-1  group-title="Islami" tvg-logo="https://i.ibb.co/smjzccw/Al-Iman-TV.png",Al-Iman  TV
 https://tv.rodja.live/aliman/ngrp:HD_all/playlist.m3u8
 
-#EXTINF:-1  group-title="Indonesia" tvg-logo="https://i.ibb.co/smjzccw/Al-Iman-TV.png",Moji  TV
+#EXTINF:-1  group-title="Indonesia" tvg-logo="https://i.ibb.co/LdzbJw9/Moji-tv.png",Moji  TV
 http://rr2.dens.tv/s/s41/index.m3u8?app_type=web&userid=50n13N0v14nd1&tkn=829341hrjhaq0q30q&chname=O_Channel30
 
-#EXTINF:-1  group-title="Sports" tvg-logo="https://i.ibb.co/smjzccw/Al-Iman-TV.png",Moji  TV
+#EXTINF:-1  group-title="Sports" tvg-logo="https://i.ibb.co/LdzbJw9/Moji-tv.png",Moji  TV
 http://rr2.dens.tv/s/s41/index.m3u8?app_type=web&userid=50n13N0v14nd1&tkn=829341hrjhaq0q30q&chname=O_Channel30
 
 #EXTINF:-1  group-title="Indonesia" tvg-logo="https://i.ibb.co/q93SSbn/aniplus.png",AniPlus
@@ -408,6 +408,33 @@ http://ott.tvri.co.id/Content/HLS/Live/Channel(TVRIKaltimsamarinda)/index.m3u8?c
 #EXTINF:-1  group-title="Daerah" tvg-logo="https://i.ibb.co/Wvj9Nqf/TVRI-NASIONAL-ORANGE.png",TVRI Kaltim
 http://ott.tvri.co.id/Content/HLS/Live/Channel(TVRIKaltimsamarinda)/index.m3u8?checkedby:iptvcat.com
 
+#EXTINF:-1  group-title="Indonesia" tvg-logo="https://i.ibb.co/Wvj9Nqf/TVRI-NASIONAL-ORANGE.png",Dunia Anak
+https://beetv.my.id/x/usee-duniaanak-masihsama.m3u8
+
+#EXTINF:-1  group-title="Anak" tvg-logo="https://i.ibb.co/Wvj9Nqf/TVRI-NASIONAL-ORANGE.png",Dunia Anak
+https://beetv.my.id/x/usee-duniaanak-masihsama.m3u8
+
+#EXTINF:-1  group-title="Indonesia" tvg-logo="",Nusantara TV
+https://nusantaratv.siar.us/nusantaratv/live/chunks.m3u8
+
+#EXTINF:-1  group-title="Indonesia" tvg-logo="",Magna Channel
+https://edge.medcom.id/live-edge/smil:magna.smil/playlist.m3u8
+
+#EXTINF:-1  group-title="Indonesia" tvg-logo="",CNBC Indonesia
+https://live.cnbcindonesia.com/livecnbc/smil:cnbctv.smil/chunklist_w1352897452_b280000_sleng.m3u8
+
+#EXTINF:-1  group-title="Indonesia" tvg-logo="https://i.ibb.co/vcC7vP1/Usee-Sports.png",Usee Sports 1
+http://iptvid.my.id/hmm/useesport.m3u8
+
+#EXTINF:-1  group-title="Sports" tvg-logo="https://i.ibb.co/vcC7vP1/Usee-Sports.png",Usee Sports 1
+http://iptvid.my.id/hmm/useesport.m3u8
+
+#EXTINF:-1  group-title="Indonesia" tvg-logo="https://i.ibb.co/vcC7vP1/Usee-Sports.png",Usee Sports 2
+http://iptvid.my.id/hmm/useesports2.m3u8
+
+#EXTINF:-1  group-title="Sports" tvg-logo="https://i.ibb.co/vcC7vP1/Usee-Sports.png",Usee Sports 2
+http://iptvid.my.id/hmm/useesports2.m3u8
+
 ========== MALAYSIA ==========
 
 #EXTINF:-1  group-title="Malaysia" tvg-logo="https://i.ibb.co/VgtCx8P/tv1.png",tv1
@@ -420,9 +447,6 @@ https://d25tgymtnqzu8s.cloudfront.net/smil:tv2/manifest.mpd
 https://live-sg1.global.ssl.fastly.net/live-hls/tonton1_480p/index.m3u8
 
 #EXTINF:-1  group-title="Malaysia" tvg-logo="https://i.ibb.co/rwDH799/unifi-sport-1.png",Unifi Sport 1
-https://unifi-live05.secureswiftcontent.com/UnifiHD/live11.mpd
-
-#EXTINF:-1  group-title="Sports" tvg-logo="https://i.ibb.co/rwDH799/unifi-sport-1.png",tv3
 https://unifi-live05.secureswiftcontent.com/UnifiHD/live11.mpd
 
 #EXTINF:-1  group-title="Sports" tvg-logo="https://i.ibb.co/rwDH799/unifi-sport-1.png",Unifi Sports 1
