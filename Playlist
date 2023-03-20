@@ -408,11 +408,14 @@ http://ott.tvri.co.id/Content/HLS/Live/Channel(TVRIKaltimsamarinda)/index.m3u8?c
 #EXTINF:-1  group-title="Daerah" tvg-logo="https://i.ibb.co/Wvj9Nqf/TVRI-NASIONAL-ORANGE.png",TVRI Kaltim
 http://ott.tvri.co.id/Content/HLS/Live/Channel(TVRIKaltimsamarinda)/index.m3u8?checkedby:iptvcat.com
 
-#EXTINF:-1  group-title="Indonesia" tvg-logo="https://i.ibb.co/Wvj9Nqf/TVRI-NASIONAL-ORANGE.png",Dunia Anak
+#EXTINF:-1  group-title="Indonesia" tvg-logo="https://i.postimg.cc/ZK27hfrh/Dunia-Anak.png",Dunia Anak
 https://beetv.my.id/x/usee-duniaanak-masihsama.m3u8
 
-#EXTINF:-1  group-title="Anak" tvg-logo="https://i.ibb.co/Wvj9Nqf/TVRI-NASIONAL-ORANGE.png",Dunia Anak
+#EXTINF:-1  group-title="Anak" tvg-logo="https://i.postimg.cc/ZK27hfrh/Dunia-Anak.png",Dunia Anak
 https://beetv.my.id/x/usee-duniaanak-masihsama.m3u8
+
+#EXTINF:-1  group-title="Indonesia" tvg-logo="https://i.postimg.cc/6pZH6d04/Dunia-Lain.png",Dunia Lain
+https://beetv.my.id/x/usee-dunialain-masihsama.m3u8
 
 #EXTINF:-1  group-title="Indonesia" tvg-logo="",Nusantara TV
 https://nusantaratv.siar.us/nusantaratv/live/chunks.m3u8
