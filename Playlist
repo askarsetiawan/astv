@@ -551,10 +551,10 @@ https://happykidsjunior-vizio.amagi.tv/playlist.m3u8
 #EXTINF:-1  group-title="Anak" tvg-logo="",Kidsflix
 https://stream-us-east-1.getpublica.com/playlist.m3u8?network_id=50
 
-#EXTINF:-1  group-title="Indonesia" tvg-logo="",Wesal TV
+#EXTINF:-1  group-title="Indonesia" tvg-logo="https://i.postimg.cc/8cyf2sJ1/Wesal-TV.png",Wesal TV
 https://ams.juraganstreaming.com:5443/LiveApp/streams/wesaltv.m3u8
 
-#EXTINF:-1  group-title="Islami" tvg-logo="",Wesal TV
+#EXTINF:-1  group-title="Islami" tvg-logo="https://i.postimg.cc/8cyf2sJ1/Wesal-TV.png",Wesal TV
 https://ams.juraganstreaming.com:5443/LiveApp/streams/wesaltv.m3u8
 
 #EXTINF:-1  group-title="Indonesia" tvg-logo="https://i.postimg.cc/SRyhMnz6/Ahsan-TV.png",Ahsan TV
@@ -563,10 +563,10 @@ https://h1.intechmedia.net/intech/ch4.m3u8
 #EXTINF:-1  group-title="Islami" tvg-logo="https://i.postimg.cc/SRyhMnz6/Ahsan-TV.png",Ahsan TV
 https://h1.intechmedia.net/intech/ch4.m3u8
 
-#EXTINF:-1  group-title="Indonesia" tvg-logo="https://i.postimg.cc/SRyhMnz6/Ahsan-TV.png",Muadz TV
+#EXTINF:-1  group-title="Indonesia" tvg-logo="https://i.postimg.cc/Gt27v8vY/Muadz-TV.png",Muadz TV
 https://h1.intechmedia.net/intech/ch5.m3u8
 
-#EXTINF:-1  group-title="Islami" tvg-logo="",Muadz TV
+#EXTINF:-1  group-title="Islami" tvg-logo="https://i.postimg.cc/Gt27v8vY/Muadz-TV.png",Muadz TV
 https://h1.intechmedia.net/intech/ch5.m3u8
 
 #EXTINF:-1  group-title="Indonesia " tvg-logo="https://i.postimg.cc/jStFDtHT/Al-Bahjah-TV.png",Bahjah TV
