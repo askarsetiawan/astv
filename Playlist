@@ -2,6 +2,9 @@
 #EXTINF:-1  group-title="Liga Indonesia" tvg-logo="https://thumbor.prod.vidiocdn.com/i6KB67yxr6G0gTtKlo1P3ePsPL0=/372x211/filters:quality(75)/vidio-web-prod-livestreaming/uploads/livestreaming/image/9304/bri-liga-1-43f406.jpg",Barito Putera vs Persis Solo | 15:00 WIB
 http://beetv.my.id/x/usee-useesport-masihsama.m3u8
 
+#EXTINF:-1  group-title="Liga Indonesia" tvg-logo="https://thumbor.prod.vidiocdn.com/i6KB67yxr6G0gTtKlo1P3ePsPL0=/372x211/filters:quality(75)/vidio-web-prod-livestreaming/uploads/livestreaming/image/9304/bri-liga-1-43f406.jpg",Barito Putera vs Persis Solo | 15:00 WIB
+https://hls3.04lv.com/live/L14467140.m3u8?txSecret=b4b4b00d1f4ef7ba1e832a7b42629a69&txTime=641AB328&_s=stream
+
 ========== INDONESIA ==========
 
 #EXTM3U
