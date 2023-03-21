@@ -420,7 +420,7 @@ https://beetv.my.id/x/usee-dunialain-masihsama.m3u8
 #EXTINF:-1  group-title="Indonesia" tvg-logo="https://i.postimg.cc/qMyQr0ps/Nusantara-TV.png",Nusantara TV
 https://nusantaratv.siar.us/nusantaratv/live/chunks.m3u8
 
-#EXTINF:-1  group-title="Indonesia" tvg-logo="",Magna Channel
+#EXTINF:-1  group-title="Indonesia" tvg-logo="https://i.postimg.cc/xdBD7n0w/Magna-Channel.png",Magna Channel
 https://edge.medcom.id/live-edge/smil:magna.smil/playlist.m3u8
 
 #EXTINF:-1  group-title="Indonesia" tvg-logo="",CNBC Indonesia
