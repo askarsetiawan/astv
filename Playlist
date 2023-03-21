@@ -288,7 +288,25 @@ https://anevi-live-channel-cdn.mncnow.id/live/eds/Animax/sa_dash_vmx/Animax.mpd
 https://anevi-live-channel-cdn.mncnow.id/live/eds/Animax/sa_dash_vmx/Animax.mpd
 
 #EXTINF:-1  group-title="Indonesia" tvg-logo="https://i.postimg.cc/nzjmvkTh/Bali-TV.png",Bali TV
-http://mytvhd.ath.cx:8080/@Aradaradaian/@f57sjz@89PAcz5/53471.ts
+http://45.126.83.51/uq2663/h/h159/S4/mnf.m3u8
+
+#EXTINF:-1  group-title="Daerah" tvg-logo="https://i.postimg.cc/nzjmvkTh/Bali-TV.png",Bali TV
+http://45.126.83.51/uq2663/h/h159/S4/mnf.m3u8
+
+#EXTINF:-1  group-title="Indonesia" tvg-logo="",Sultra TV
+http://122.248.43.138:1935/ch20/myStream/playlist.m3u8
+
+#EXTINF:-1  group-title="Daerah" tvg-logo="",Sultra TV
+http://122.248.43.138:1935/ch20/myStream/playlist.m3u8
+
+#EXTINF:-1  group-title="Daerah" tvg-logo="",Semarang TV
+http://116.254.112.74/hls/cakralive.m3u8
+
+#EXTINF:-1  group-title="Daerah" tvg-logo="",Balikpapan TV
+http://122.248.43.138:1935/ch10/myStream/playlist.m3u8
+
+#EXTINF:-1  group-title="Daerah" tvg-logo="",Jogja TV
+https://stream.jogjatv.co.id/jtvlive/stream/index.m3u8
 
 #EXTINF:-1  group-title="Indonesia" tvg-logo="https://i.ibb.co/k5RhYZy/zee-bioskop.png",Zee Bioskop
 http://kuchini.site:8080/argoni150Con/twq965yhjfvxkmzaq/157584
