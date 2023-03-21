@@ -296,29 +296,20 @@ http://45.126.83.51/uq2663/h/h159/S4/mnf.m3u8
 #EXTINF:-1  group-title="Indonesia" tvg-logo="",Sultra TV
 http://122.248.43.138:1935/ch20/myStream/playlist.m3u8
 
-#EXTINF:-1  group-title="Indonesia" tvg-logo="",Kawanua TV
+#EXTINF:-1  group-title="Indonesia" tvg-logo="https://i.postimg.cc/vTGtrvZq/Kawanua-TV.png",Kawanua TV
 http://122.248.43.138:1935/ch18/myStream/playlist.m3u8
 
-#EXTINF:-1  group-title="Indonesia" tvg-logo="",Jambi TV
+#EXTINF:-1  group-title="Indonesia" tvg-logo="https://i.postimg.cc/zfP5hdD7/Jambi-TV.png",Jambi TV
 http://122.248.43.138:1935/ch23/myStream/chunklist.m3u8
 
-#EXTINF:-1  group-title="Daerah" tvg-logo="",Jambi TV
+#EXTINF:-1  group-title="Daerah" tvg-logo="https://i.postimg.cc/zfP5hdD7/Jambi-TV.png",Jambi TV
 http://122.248.43.138:1935/ch23/myStream/chunklist.m3u8
 
-#EXTINF:-1  group-title="Indonesia" tvg-logo="",Banten Raya TV
-https://v2.siar.us/barayatv/live/chunks.m3u8
-
-#EXTINF:-1  group-title="Indonesia" tvg-logo="",ADiTV
+#EXTINF:-1  group-title="Indonesia" tvg-logo="https://i.postimg.cc/43cJtDy5/ADiTV.png",ADiTV
 https://v2.siar.us/aditv/livestream/chunks.m3u8
-
-#EXTINF:-1  group-title="Indonesia" tvg-logo="",Bandung TV
-http://202.150.153.254/bandungtv720p.m3u8
 
 #EXTINF:-1  group-title="Daerah" tvg-logo="",Bandung TV
 http://202.150.153.254/bandungtv720p.m3u8
-
-#EXTINF:-1  group-title="Daerah" tvg-logo="",Banten Raya TV
-https://v2.siar.us/barayatv/live/chunks.m3u8
 
 #EXTINF:-1  group-title="Daerah" tvg-logo="",Sultra TV
 http://122.248.43.138:1935/ch20/myStream/playlist.m3u8
@@ -326,10 +317,16 @@ http://122.248.43.138:1935/ch20/myStream/playlist.m3u8
 #EXTINF:-1  group-title="Daerah" tvg-logo="",Semarang TV
 http://116.254.112.74/hls/cakralive.m3u8
 
-#EXTINF:-1  group-title="Daerah" tvg-logo="",Balikpapan TV
+#EXTINF:-1  group-title="Indonesia" tvg-logo="https://i.postimg.cc/9QMzkXFF/Balikpapan-TV.png",Balikpapan TV
 http://122.248.43.138:1935/ch10/myStream/playlist.m3u8
 
-#EXTINF:-1  group-title="Daerah" tvg-logo="",Jogja TV
+#EXTINF:-1  group-title="Daerah" tvg-logo="https://i.postimg.cc/9QMzkXFF/Balikpapan-TV.png",Balikpapan TV
+http://122.248.43.138:1935/ch10/myStream/playlist.m3u8
+
+#EXTINF:-1  group-title="Indonesia" tvg-logo="https://i.postimg.cc/Ls7w25V4/Jogja-TV.png",Jogja TV
+https://stream.jogjatv.co.id/jtvlive/stream/index.m3u8
+
+#EXTINF:-1  group-title="Daerah" tvg-logo="https://i.postimg.cc/Ls7w25V4/Jogja-TV.png",Jogja TV
 https://stream.jogjatv.co.id/jtvlive/stream/index.m3u8
 
 #EXTINF:-1  group-title="Indonesia" tvg-logo="https://i.ibb.co/k5RhYZy/zee-bioskop.png",Zee Bioskop
