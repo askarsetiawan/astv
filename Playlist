@@ -139,12 +139,12 @@ https://production-premium-vidio-bein3.akamaized.net/out/v1/3f1c8625c65f448f97b0
 https://production-premium-vidio-bein3.akamaized.net/out/v1/3f1c8625c65f448f97b055eed9d6fa31/index.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=ZjMwNDEzZTItYTdkMS0zY2NlLTljODAtZmEwYjI3ZDg0NWE0
 #EXTINF:-1  group-title="Indonesia" tvg-logo="https://i.postimg.cc/wMHVMyQn/mnc-sports.png",MNC Sports 1
 https://nyanv-live-cdn.mncnow.id/live/eds/MNCSports-HD/sa_dash_vmx/MNCSports-HD.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=MGRhNmU1M2UtNGE3Ni0zZGRkLWJhMmQtYTFmMzE2YTRlMTY3
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=ZjMwNDEzZTItYTdkMS0zY2NlLTljODAtZmEwYjI3ZDg0NWE0
 #EXTINF:-1  group-title="Sports" tvg-logo="https://i.postimg.cc/wMHVMyQn/mnc-sports.png",MNC Sports 1
 https://nyanv-live-cdn.mncnow.id/live/eds/MNCSports-HD/sa_dash_vmx/MNCSports-HD.mpd
 
@@ -169,7 +169,7 @@ https://nyanv-live-cdn.mncnow.id/live/eds/MNCSports3-HD/sa_dash_vmx/MNCSports3-H
 https://nyanv-live-cdn.mncnow.id/live/eds/MNCSports3-HD/sa_dash_vmx/MNCSports3-HD.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=MGRhNmU1M2UtNGE3Ni0zZGRkLWJhMmQtYTFmMzE2YTRlMTY3
 #EXTINF:-1  group-title="Indonesia" tvg-logo="https://i.ibb.co/Qm5jsdg/Soccer-Channel.png",MNC Soccer Channel
 https://nyanv-live-cdn.mncnow.id/live/eds/MNCSports3-HD/sa_dash_vmx/MNCSports3-HD.mpd
 
@@ -427,10 +427,10 @@ https://edge.medcom.id/live-edge/smil:magna.smil/playlist.m3u8
 https://live.cnbcindonesia.com/livecnbc/smil:cnbctv.smil/chunklist_w1352897452_b280000_sleng.m3u8
 
 #EXTINF:-1  group-title="Indonesia" tvg-logo="https://i.ibb.co/vcC7vP1/Usee-Sports.png",Usee Sports 1
-http://iptvid.my.id/hmm/useesport.m3u8?|User-Agent=android-R+
+http://iptvid.my.id/hmm/useesport.m3u8|User-Agent=android-R+
 
 #EXTINF:-1  group-title="Sports" tvg-logo="https://i.ibb.co/vcC7vP1/Usee-Sports.png",Usee Sports 1
-http://iptvid.my.id/hmm/useesport.m3u8|User-Agent=android-R+
+http://iptvid.my.id/hmm/useesport.m3u8?|User-Agent=malaysia.tvonlinefreenet2/9.8 (Linux;Android 7.1.2) ExoPlayerLib/2.14.0
 
 #EXTINF:-1  group-title="Indonesia" tvg-logo="https://i.ibb.co/vcC7vP1/Usee-Sports.png",Usee Sports 2
 http://iptvid.my.id/hmm/useesports2.m3u8|User-Agent=malaysia.tvonlinefreenet2/9.8 (Linux;Android 7.1.2) ExoPlayerLib/2.14.0
