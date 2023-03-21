@@ -315,10 +315,10 @@ http://122.248.43.138:1935/ch17/myStream/playlist.m3u8
 http://122.248.43.138:1935/ch17/myStream/playlist.m3u8
 
 #EXTINF:-1  group-title="Indonesia" tvg-logo="https://i.ibb.co/hCrrkVR/Makkah-TV.png",Makkah  TV
-http://45.126.83.51/qwr9ew/s/s27/02.m3u8
+http://210.210.155.35/qwr9ew/s/s28/index.m3u8
 
 #EXTINF:-1  group-title="Islami" tvg-logo="https://i.ibb.co/hCrrkVR/Makkah-TV.png",Makkah  TV
-http://45.126.83.51/qwr9ew/s/s27/02.m3u8
+http://210.210.155.35/qwr9ew/s/s28/index.m3u8
 
 #EXTINF:-1  group-title="Indonesia" tvg-logo="https://i.ibb.co/3Nr062f/INSAN-TV.png",Insan  TV
 https://h1.intechmedia.net/intech/ch1.m3u8
@@ -333,10 +333,10 @@ https://h1.intechmedia.net/intech/ch8.m3u8
 https://h1.intechmedia.net/intech/ch8.m3u8
 
 #EXTINF:-1  group-title="Indonesia" tvg-logo="https://i.ibb.co/smjzccw/Al-Iman-TV.png",Al-Iman  TV
-https://tv.rodja.live/aliman/ngrp:HD_all/playlist.m3u8
+http://tv.aliman.id:1935/aliman/HD/chunklist.m3u8
 
 #EXTINF:-1  group-title="Islami" tvg-logo="https://i.ibb.co/smjzccw/Al-Iman-TV.png",Al-Iman  TV
-https://tv.rodja.live/aliman/ngrp:HD_all/playlist.m3u8
+http://tv.aliman.id:1935/aliman/HD/chunklist.m3u8
 
 #EXTINF:-1  group-title="Indonesia" tvg-logo="https://i.ibb.co/LdzbJw9/Moji-tv.png",Moji  TV
 http://rr2.dens.tv/s/s41/index.m3u8?app_type=web&userid=50n13N0v14nd1&tkn=829341hrjhaq0q30q&chname=O_Channel30
@@ -560,10 +560,10 @@ https://ams.juraganstreaming.com:5443/LiveApp/streams/wesaltv.m3u8
 #EXTINF:-1  group-title="Indonesia" tvg-logo="",Ahsan TV
 https://h1.intechmedia.net/intech/ch4.m3u8
 
-#EXTINF:-1  group-title="Islami" tvg-logo="",Ahsan TV
+#EXTINF:-1  group-title="Islami" tvg-logo="https://i.postimg.cc/SRyhMnz6/Ahsan-TV.png",Ahsan TV
 https://h1.intechmedia.net/intech/ch4.m3u8
 
-#EXTINF:-1  group-title="Indonesia" tvg-logo="",Muadz TV
+#EXTINF:-1  group-title="Indonesia" tvg-logo="https://i.postimg.cc/SRyhMnz6/Ahsan-TV.png",Muadz TV
 https://h1.intechmedia.net/intech/ch5.m3u8
 
 #EXTINF:-1  group-title="Islami" tvg-logo="",Muadz TV
@@ -574,6 +574,18 @@ https://h1.intechmedia.net/intech/ch64.m3u8
 
 #EXTINF:-1  group-title="Islami" tvg-logo="",Bahjah TV
 https://h1.intechmedia.net/intech/ch64.m3u8
+
+#EXTINF:-1  group-title="Indonesia" tvg-logo="",Madinah TV
+http://210.210.155.35/qwr9ew/s/s27/index.m3u8
+
+#EXTINF:-1  group-title="Islami" tvg-logo="",Madinah TV
+http://210.210.155.35/qwr9ew/s/s27/index.m3u8
+
+#EXTINF:-1  group-title="Indonesia" tvg-logo="https://i.ibb.co/ydsYfhm/Rodja-TV.png",Rodja TV
+https://tv.rodja.live/live/ngrp:rodja_all/playlist.m3u8
+
+#EXTINF:-1  group-title="Islami" tvg-logo="https://i.ibb.co/ydsYfhm/Rodja-TV.png",Rodja TV
+https://tv.rodja.live/live/ngrp:rodja_all/playlist.m3u8
 
 ========== MALAYSIA ==========
 
