@@ -809,3 +809,21 @@ https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26
 
 #EXTINF:-1  group-title="Sports" tvg-logo="https://i.postimg.cc/hvJ0tmfH/be-IN-Sports-XTRA-n-Espanol.png",beIN Sports XTRA en Espanol
 https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/bein-sports-xtra-en-espanol/playlist.m3u8
+
+#EXTINF:-1  group-title="Spanyol" tvg-logo="https://i.postimg.cc/bwd00cqt/La-Liga-TV.png",LaLiga TV
+http://sansat.net:25461/D7GFZQNdvbMZ1PH/9RuK03LqDvfPRXA/169503
+
+#EXTINF:-1  group-title="Sports" tvg-logo="https://i.postimg.cc/bwd00cqt/La-Liga-TV.png",LaLiga TV
+http://sansat.net:25461/D7GFZQNdvbMZ1PH/9RuK03LqDvfPRXA/169503
+
+#EXTINF:-1  group-title="Spanyol" tvg-logo="https://i.postimg.cc/XNwSRMWw/Movistar-La-Liga.png",Movistar LaLiga 
+https://ddy1.onlinewebtv.lol/ddy1/premium84/tracks-v1a1/mono.m3u8?|referer=https://widevine.licenses4.me/&user_agent=android-R+
+
+#EXTINF:-1  group-title="Sports" tvg-logo="https://i.postimg.cc/XNwSRMWw/Movistar-La-Liga.png",Movistar LaLiga 
+https://ddy1.onlinewebtv.lol/ddy1/premium84/tracks-v1a1/mono.m3u8?|referer=https://widevine.licenses4.me/&user_agent=android-R+
+
+#EXTINF:-1  group-title="Spanyol" tvg-logo="https://i.postimg.cc/XNwSRMWw/Movistar-La-Liga.png",Movistar LaLiga 3
+https://webudit.onlinewebtv.lol/lb/premium540/index.m3u8?|referer=https://widevine.licenses4.me/&user_agent=android-R+
+
+#EXTINF:-1  group-title="Sports" tvg-logo="https://i.postimg.cc/XNwSRMWw/Movistar-La-Liga.png",Movistar LaLiga  3
+https://webudit.onlinewebtv.lol/lb/premium540/index.m3u8?|referer=https://widevine.licenses4.me/&user_agent=android-R+
