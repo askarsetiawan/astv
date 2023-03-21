@@ -557,7 +557,7 @@ https://ams.juraganstreaming.com:5443/LiveApp/streams/wesaltv.m3u8
 #EXTINF:-1  group-title="Islami" tvg-logo="",Wesal TV
 https://ams.juraganstreaming.com:5443/LiveApp/streams/wesaltv.m3u8
 
-#EXTINF:-1  group-title="Indonesia" tvg-logo="",Ahsan TV
+#EXTINF:-1  group-title="Indonesia" tvg-logo="https://i.postimg.cc/SRyhMnz6/Ahsan-TV.png",Ahsan TV
 https://h1.intechmedia.net/intech/ch4.m3u8
 
 #EXTINF:-1  group-title="Islami" tvg-logo="https://i.postimg.cc/SRyhMnz6/Ahsan-TV.png",Ahsan TV
@@ -569,16 +569,16 @@ https://h1.intechmedia.net/intech/ch5.m3u8
 #EXTINF:-1  group-title="Islami" tvg-logo="",Muadz TV
 https://h1.intechmedia.net/intech/ch5.m3u8
 
-#EXTINF:-1  group-title="Indonesia " tvg-logo="",Bahjah TV
+#EXTINF:-1  group-title="Indonesia " tvg-logo="https://i.postimg.cc/jStFDtHT/Al-Bahjah-TV.png",Bahjah TV
 https://h1.intechmedia.net/intech/ch64.m3u8
 
-#EXTINF:-1  group-title="Islami" tvg-logo="",Bahjah TV
+#EXTINF:-1  group-title="Islami" tvg-logo="https://i.postimg.cc/jStFDtHT/Al-Bahjah-TV.png",Bahjah TV
 https://h1.intechmedia.net/intech/ch64.m3u8
 
-#EXTINF:-1  group-title="Indonesia" tvg-logo="",Madinah TV
+#EXTINF:-1  group-title="Indonesia" tvg-logo="https://i.postimg.cc/Vs2rRNvq/MADINAH-TV.png",Madinah TV
 http://210.210.155.35/qwr9ew/s/s27/index.m3u8
 
-#EXTINF:-1  group-title="Islami" tvg-logo="",Madinah TV
+#EXTINF:-1  group-title="Islami" tvg-logo="https://i.postimg.cc/Vs2rRNvq/MADINAH-TV.png",Madinah TV
 http://210.210.155.35/qwr9ew/s/s27/index.m3u8
 
 #EXTINF:-1  group-title="Indonesia" tvg-logo="https://i.ibb.co/ydsYfhm/Rodja-TV.png",Rodja TV
