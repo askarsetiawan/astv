@@ -786,6 +786,9 @@ http://kuchini.site:8080/tomstme300/tomasarenatelegramme300/157565
 
 ========== ESPANYOL ==========
 
+#EXTINF:-1  group-title="Spanyol" tvg-logo="https://i.postimg.cc/NMrbmqkd/Vamos-Spanyol.png",#Vamos
+https://webudit.onlinewebtv.lol/lb/premium521/index.m3u8?|referer=https://widevine.licenses4.me/&user_agent=android-R+
+
 #EXTINF:-1  group-title="Spanyol" tvg-logo="https://i.postimg.cc/hvJ0tmfH/be-IN-Sports-XTRA-n-Espanol.png",beIN Sports XTRA en Espanol
 https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/bein-sports-xtra-en-espanol/playlist.m3u8
 
