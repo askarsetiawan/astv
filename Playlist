@@ -1,9 +1,11 @@
 ========== Liga Indonesia | BRI Liga 1 ==========
 
-========== Friendly Match ==========
+========== UEFA Euro Qualifying ==========
 
-#EXTINF:-1  group-title="World - Friendly" tvg-logo="https://mrfixitstips.co.uk/wp-content/uploads/2023/03/MRF2023_IrelandvLatvia.jpg",02.45 WIB | Republik Irlandia vs Latvia
+#EXTINF:-1  group-title="UEFA Euro Qualifying" tvg-logo="https://images.sgp2.ott.kaltura.com/Service.svc/GetImage/p/3209/entry_id/9b0a2d9d40e0410a92a72d1bbdd00aee/version/0/width/1280/height/720",22.00 WIB | Kazakhstan vs Slovenia
 https://newtest.onlinewebtv.lol/ddy6/premium572/tracks-v1a1/mono.m3u8?|referer=https://widevine.licenses4.me/&user_agent=Mozilla/5.0 (Linux; Android 11; SM-A307GN Build/RP1A.200720.012; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/107.0.5304.91 Mobile Safari/537.36 Vinebre
+
+========== Friendly Match ==========
 
 ========== Kualifikasi Euro U-17 ==========
 
@@ -1228,3 +1230,4 @@ http://iptv.dxdtv.xyz:8080/world@jcDGFsGbUpdQ/663J7yy3SPae/58908
 
 #EXTINF:-1  group-title="Sports" tvg-logo="https://i.postimg.cc/pr7fG3tG/SPORTKLUB.png",Sport Klub 5 Serbia
 http://iptv.dxdtv.xyz:8080/world@jcDGFsGbUpdQ/663J7yy3SPae/58908
+
