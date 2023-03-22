@@ -938,20 +938,26 @@ http://sansat.net:25461/D7GFZQNdvbMZ1PH/9RuK03LqDvfPRXA/169503
 #EXTINF:-1  group-title="Sports" tvg-logo="https://i.postimg.cc/bwd00cqt/La-Liga-TV.png",LaLiga TV
 http://sansat.net:25461/D7GFZQNdvbMZ1PH/9RuK03LqDvfPRXA/169503
 
-#EXTINF:-1  group-title="Spanyol" tvg-logo="https://i.postimg.cc/XNwSRMWw/Movistar-La-Liga.png",Movistar LaLiga 
+#EXTINF:-1  group-title="Spanyol" tvg-logo="https://i.postimg.cc/JhZfkZdT/Movistar-La-Liga.png",Movistar LaLiga 
 https://ddy1.onlinewebtv.lol/ddy1/premium84/tracks-v1a1/mono.m3u8?|referer=https://widevine.licenses4.me/&user_agent=android-R+
 
-#EXTINF:-1  group-title="Sports" tvg-logo="https://i.postimg.cc/XNwSRMWw/Movistar-La-Liga.png",Movistar LaLiga 
+#EXTINF:-1  group-title="Sports" tvg-logo="https://i.postimg.cc/JhZfkZdT/Movistar-La-Liga.png",Movistar LaLiga 
 https://ddy1.onlinewebtv.lol/ddy1/premium84/tracks-v1a1/mono.m3u8?|referer=https://widevine.licenses4.me/&user_agent=android-R+
 
-#EXTINF:-1  group-title="Spanyol" tvg-logo="https://i.postimg.cc/XNwSRMWw/Movistar-La-Liga.png",Movistar LaLiga 2
+#EXTINF:-1  group-title="Spanyol" tvg-logo="https://i.postimg.cc/JhZfkZdT/Movistar-La-Liga.png",Movistar LaLiga 2
 http://sansat.net:25461/D7GFZQNdvbMZ1PH/9RuK03LqDvfPRXA/127851
 
-#EXTINF:-1  group-title="Sports" tvg-logo="https://i.postimg.cc/XNwSRMWw/Movistar-La-Liga.png",Movistar LaLiga  2
+#EXTINF:-1  group-title="Sports" tvg-logo="https://i.postimg.cc/JhZfkZdT/Movistar-La-Liga.png",Movistar LaLiga  2
 http://sansat.net:25461/D7GFZQNdvbMZ1PH/9RuK03LqDvfPRXA/127851
 
-#EXTINF:-1  group-title="Spanyol" tvg-logo="https://i.postimg.cc/XNwSRMWw/Movistar-La-Liga.png",Movistar LaLiga 3
+#EXTINF:-1  group-title="Spanyol" tvg-logo="https://i.postimg.cc/JhZfkZdT/Movistar-La-Liga.png",Movistar LaLiga 3
 https://webudit.onlinewebtv.lol/lb/premium540/index.m3u8?|referer=https://widevine.licenses4.me/&user_agent=android-R+
 
-#EXTINF:-1  group-title="Sports" tvg-logo="https://i.postimg.cc/XNwSRMWw/Movistar-La-Liga.png",Movistar LaLiga  3
+#EXTINF:-1  group-title="Sports" tvg-logo="https://i.postimg.cc/JhZfkZdT/Movistar-La-Liga.png",Movistar LaLiga  3
 https://webudit.onlinewebtv.lol/lb/premium540/index.m3u8?|referer=https://widevine.licenses4.me/&user_agent=android-R+
+
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://cubmu.hoheh.workers.dev/
+#EXTINF:-1 group-title="Transvision",TES
+https://cdnjkt2.transvision.co.id:1001/live/master/3/4028c6856b6088c3016b87d64b970b53/manifest.mpd
