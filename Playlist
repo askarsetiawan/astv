@@ -718,9 +718,6 @@ https://siloh.pluto.tv/lilo/production/Nick/03/master.m3u8
 #EXT:-1  group-title="Anak" tvg-logo="",Happy Kids
 https://happykids-roku.amagi.tv/playlist.m3u8
 
-#EXTINF:-1  group-title="Indonesia" tvg-logo="https://i.postimg.cc/PqGnLHmH/JR.png",Happy Kids Junior
-https://happykidsjunior-vizio.amagi.tv/playlist.m3u8
-
 #EXTINF:-1  group-title="Anak" tvg-logo="https://i.postimg.cc/PqGnLHmH/JR.png",Happy Kids Junior
 https://happykidsjunior-vizio.amagi.tv/playlist.m3u8
 
