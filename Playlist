@@ -250,8 +250,10 @@ http://210.210.155.37/dr9445/h/h10/index.m3u8
 #EXTINF:-1  group-title="Indonesia" tvg-logo="https://i.ibb.co/qxbCwQw/CNN-INDONESIA-ORANGE.png",CNN Indonesia
 https://live.cnnindonesia.com/livecnn/smil:cnntv.smil/playlist.m3u8
 
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=ZjMwNDEzZTItYTdkMS0zY2NlLTljODAtZmEwYjI3ZDg0NWE0
 #EXTINF:-1  group-title="Indonesia" tvg-logo="https://i.postimg.cc/RZmfFHPx/JTV.png",JTV
-http://122.248.43.138:1935/ch2/myStream/chunklist_w1361670428.m3u8
+https://nyanv-live-cdn.mncnow.id/live/eds/JTV/sa_dash/JTV.mpd
 
 #EXTINF:-1  group-title="Indonesia" tvg-logo="https://i.postimg.cc/W31hZmZx/Garuda-TV.png",Garuda TV
 http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel(ch45)/index.m3u8
@@ -434,11 +436,15 @@ https://nyanv-live-cdn.mncnow.id/live/eds/GalaxyPremium-HD/sa_dash_vmx/GalaxyPre
 #EXTINF:-1  group-title="Anak" tvg-logo="https://i.postimg.cc/KYnSRShG/ANIMAX.png",Animax
 https://anevi-live-channel-cdn.mncnow.id/live/eds/Animax/sa_dash_vmx/Animax.mpd
 
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=ZjMwNDEzZTItYTdkMS0zY2NlLTljODAtZmEwYjI3ZDg0NWE0
 #EXTINF:-1  group-title="Indonesia" tvg-logo="https://i.postimg.cc/nzjmvkTh/Bali-TV.png",Bali TV
-http://45.126.83.51/uq2663/h/h159/S4/mnf.m3u8
+https://nyanv-live-cdn.mncnow.id/live/eds/BaliTV/sa_dash_vmx/BaliTV.mpd
 
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=ZjMwNDEzZTItYTdkMS0zY2NlLTljODAtZmEwYjI3ZDg0NWE0
 #EXTINF:-1  group-title="Daerah" tvg-logo="https://i.postimg.cc/nzjmvkTh/Bali-TV.png",Bali TV
-http://45.126.83.51/uq2663/h/h159/S4/mnf.m3u8
+https://nyanv-live-cdn.mncnow.id/live/eds/BaliTV/sa_dash_vmx/BaliTV.mpd
 
 #EXTINF:-1  group-title="Indonesia" tvg-logo="",Sultra TV
 http://122.248.43.138:1935/ch20/myStream/playlist.m3u8
@@ -1109,3 +1115,4 @@ https://webudit.onlinewebtv.lol/lb/premium431/index.m3u8?|referer=https://widevi
 
 #EXTINF:-1  group-title="Sports" tvg-logo="https://i.ibb.co/NtvjYM8/Arena-Sport-3.png",Arena Sport 3 Serbia
 https://webudit.onlinewebtv.lol/lb/premium431/index.m3u8?|referer=https://widevine.licenses4.me/&user_agent=Mozilla/5.0 (Linux; Android 11; SM-A307GN Build/RP1A.200720.012; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/107.0.5304.91 Mobile Safari/537.36 Vinebre
+
