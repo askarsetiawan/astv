@@ -7,13 +7,13 @@ http://sansat.net:25461/D7GFZQNdvbMZ1PH/9RuK03LqDvfPRXA/96127
 
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=HLS
-#KODIPROP:http-headers=Referer=https://widevine.licenses4.me/,User-Agent=android-R+
+#KODIPROP:http-headers=Referer=https://widevine.licenses4.me/,User-Agent=Mozilla/5.0 (Linux; Android 11; SM-A307GN Build/RP1A.200720.012; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/107.0.5304.91 Mobile Safari/537.36 Vinebre
 #EXTINF:-14  group-title="Kualifikasi Euro U-17" tvg-logo="https://img.uefa.com/imgml/uefacom/under17/social/og-default.jpg",Bosnia and Herz U-17 vs. Israel U-17 | 20:00
 https://webudit.onlinewebtv.lol/lb/premium145/index.m3u8
 
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=HLS
-#KODIPROP:http-headers=Referer=https://widevine.licenses4.me/,User-Agent=android-R+
+#KODIPROP:http-headers=Referer=https://widevine.licenses4.me/,User-Agent=Mozilla/5.0 (Linux; Android 11; SM-A307GN Build/RP1A.200720.012; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/107.0.5304.91 Mobile Safari/537.36 Vinebre
 #EXTINF:-14  group-title="Kualifikasi Euro U-17" tvg-logo="https://img.uefa.com/imgml/uefacom/under17/social/og-default.jpg",Serbia U-17 vs Belarus U-17 | 20:00
 https://ddy5.onlinewebtv.lol/ddy5/premium134/tracks-v1a1/mono.m3u8
 
