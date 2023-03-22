@@ -5,46 +5,28 @@
 #EXTINF:-14  group-title="Kualifikasi Euro U-17" tvg-logo="https://img.uefa.com/imgml/uefacom/under17/social/og-default.jpg",Perancis U-17 vs Albania U-17 | 16:00
 http://sansat.net:25461/D7GFZQNdvbMZ1PH/9RuK03LqDvfPRXA/96127
 
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=HLS
-#KODIPROP:http-headers=Referer=https://widevine.licenses4.me/,User-Agent=Mozilla/5.0 (Linux; Android 11; SM-A307GN Build/RP1A.200720.012; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/107.0.5304.91 Mobile Safari/537.36 Vinebre
 #EXTINF:-1  group-title="Kualifikasi Euro U-17" tvg-logo="https://img.uefa.com/imgml/uefacom/under17/social/og-default.jpg",Bosnia and Herz U-17 vs Israel U-17 | 20:00
-https://webudit.onlinewebtv.lol/lb/premium145/index.m3u8
+https://webudit.onlinewebtv.lol/lb/premium145/index.m3u8?|referer=https://widevine.licenses4.me/&user_agent=Mozilla/5.0 (Linux; Android 11; SM-A307GN Build/RP1A.200720.012; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/107.0.5304.91 Mobile Safari/537.36 Vinebre
 
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=HLS
-#KODIPROP:http-headers=Referer=https://widevine.licenses4.me/,User-Agent=Mozilla/5.0 (Linux; Android 11; SM-A307GN Build/RP1A.200720.012; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/107.0.5304.91 Mobile Safari/537.36 Vinebre
 #EXTINF:-1  group-title="Kualifikasi Euro U-17" tvg-logo="https://img.uefa.com/imgml/uefacom/under17/social/og-default.jpg",Serbia U-17 vs Belarus U-17 | 20:00
-https://ddy5.onlinewebtv.lol/ddy5/premium134/tracks-v1a1/mono.m3u8
+https://ddy5.onlinewebtv.lol/ddy5/premium134/tracks-v1a1/mono.m3u8?|referer=https://widevine.licenses4.me/&user_agent=Mozilla/5.0 (Linux; Android 11; SM-A307GN Build/RP1A.200720.012; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/107.0.5304.91 Mobile Safari/537.36 Vinebre
 
 #EXTINF:-1  group-title="Kualifikasi Euro U-17" tvg-logo="https://img.uefa.com/imgml/uefacom/under17/social/og-default.jpg",Latvia U-17 vs Switzerland U-17 | 21:30
 http://sansat.net:25461/D7GFZQNdvbMZ1PH/9RuK03LqDvfPRXA/96127
 
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=HLS
-#KODIPROP:http-headers=Referer=https://widevine.licenses4.me/,User-Agent=android-R+
 #EXTINF:-1  group-title="Kualifikasi Euro U-17" tvg-logo="https://img.uefa.com/imgml/uefacom/under17/social/og-default.jpg",Portugal U-17 vs Slovakia U-17 | 21:30
-https://ddyx2.onlinewebtv.lol/ddyx2/premium540/tracks-v1a1/mono.m3u8
+https://ddyx2.onlinewebtv.lol/ddyx2/premium540/tracks-v1a1/mono.m3u8?|referer=https://widevine.licenses4.me/&user_agent=Mozilla/5.0 (Linux; Android 11; SM-A307GN Build/RP1A.200720.012; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/107.0.5304.91 Mobile Safari/537.36 Vinebre
 
 ========== Kualifikasi Euro U-19 ==========
 
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=HLS
-#KODIPROP:http-headers=Referer=https://widevine.licenses4.me/,User-Agent=android-R+
 #EXTINF:-14  group-title="Kualifikasi Euro U-19" tvg-logo="https://img.uefa.com/imgml/uefacom/under19/social/og-default.jpg",Israel U-19 vs Polandia U-19 | 20:00
-https://webudit.onlinewebtv.lol/lb/premium146/index.m3u8
+https://webudit.onlinewebtv.lol/lb/premium146/index.m3u8?|referer=https://widevine.licenses4.me/&user_agent=Mozilla/5.0 (Linux; Android 11; SM-A307GN Build/RP1A.200720.012; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/107.0.5304.91 Mobile Safari/537.36 Vinebre
 
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=HLS
-#KODIPROP:http-headers=Referer=https://widevine.licenses4.me/,User-Agent=android-R+
 #EXTINF:-14  group-title="Kualifikasi Euro U-19" tvg-logo="https://img.uefa.com/imgml/uefacom/under19/social/og-default.jpg",Republik Ceko U-19 vs Kroasia U-19 | 18:00
-https://webudit.onlinewebtv.lol/lb/premium540/index.m3u8
+https://webudit.onlinewebtv.lol/lb/premium540/index.m3u8?|referer=https://widevine.licenses4.me/&user_agent=Mozilla/5.0 (Linux; Android 11; SM-A307GN Build/RP1A.200720.012; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/107.0.5304.91 Mobile Safari/537.36 Vinebre
 
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=HLS
-#KODIPROP:http-headers=Referer=https://widevine.licenses4.me/,User-Agent=android-R+
 #EXTINF:-14  group-title="Kualifikasi Euro U-19" tvg-logo="https://img.uefa.com/imgml/uefacom/under19/social/og-default.jpg",Denmark U-19 vs Spanyol U-19 | 23:00
-https://webudit.onlinewebtv.lol/lb/premium134/index.m3u8
+https://webudit.onlinewebtv.lol/lb/premium134/index.m3u8?|referer=https://widevine.licenses4.me/&user_agent=Mozilla/5.0 (Linux; Android 11; SM-A307GN Build/RP1A.200720.012; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/107.0.5304.91 Mobile Safari/537.36 Vinebre
 
 
 ========== INDONESIA ==========
@@ -1041,7 +1023,7 @@ http://sansat.net:25461/D7GFZQNdvbMZ1PH/9RuK03LqDvfPRXA/169503
 https://ddy1.onlinewebtv.lol/ddy1/premium84/tracks-v1a1/mono.m3u8?|referer=https://widevine.licenses4.me/&user_agent=android-R+
 
 #EXTINF:-1  group-title="Sports" tvg-logo="https://i.postimg.cc/JhZfkZdT/Movistar-La-Liga.png",Movistar LaLiga 
-https://ddy1.onlinewebtv.lol/ddy1/premium84/tracks-v1a1/mono.m3u8?|referer=https://widevine.licenses4.me/&user_agent=android-R+
+https://ddy1.onlinewebtv.lol/ddy1/premium84/tracks-v1a1/mono.m3u8?|referer=https://widevine.licenses4.me/&user_agent=Mozilla/5.0 (Linux; Android 11; SM-A307GN Build/RP1A.200720.012; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/107.0.5304.91 Mobile Safari/537.36 Vinebre
 
 #EXTINF:-1  group-title="Spanyol" tvg-logo="https://i.postimg.cc/JhZfkZdT/Movistar-La-Liga.png",Movistar LaLiga 2
 http://sansat.net:25461/D7GFZQNdvbMZ1PH/9RuK03LqDvfPRXA/127851
@@ -1097,34 +1079,18 @@ https://webudit.onlinewebtv.lol/lb/premium537/index.m3u8?|referer=https://widevi
 #EXTINF:-1  group-title="Sports" tvg-logo="https://i.postimg.cc/ht50CwQx/DAZN-F1.png",DAZN F1 Spanyol
 https://webudit.onlinewebtv.lol/lb/premium537/index.m3u8?|referer=https://widevine.licenses4.me/&user_agent=android-R+
 
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=HLS
-#KODIPROP:http-headers=Referer=https://widevine.licenses4.me/,User-Agent=android-R+
 #EXTINF:-1  group-title="Spanyol" tvg-logo="https://i.postimg.cc/y8W1zCRK/La-Liga-Smart-Bank-TV.png",LaLiga Smartbank
-https://webudit.onlinewebtv.lol/lb/premium539/index.m3u8
+https://webudit.onlinewebtv.lol/lb/premium539/index.m3u8?|referer=https://widevine.licenses4.me/&user_agent=Mozilla/5.0 (Linux; Android 11; SM-A307GN Build/RP1A.200720.012; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/107.0.5304.91 Mobile Safari/537.36 Vinebre
 
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=HLS
-#KODIPROP:http-headers=Referer=https://widevine.licenses4.me/,User-Agent=android-R+
 #EXTINF:-1  group-title="Sports" tvg-logo="https://i.postimg.cc/y8W1zCRK/La-Liga-Smart-Bank-TV.png",LaLiga Smartbank Spanyol
-https://webudit.onlinewebtv.lol/lb/premium539/index.m3u8
+https://webudit.onlinewebtv.lol/lb/premium539/index.m3u8?|referer=https://widevine.licenses4.me/&user_agent=Mozilla/5.0 (Linux; Android 11; SM-A307GN Build/RP1A.200720.012; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/107.0.5304.91 Mobile Safari/537.36 Vinebre
 
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=HLS
-#KODIPROP:http-headers=Referer=https://widevine.licenses4.me/,User-Agent=android-R+
-#EXTINF:-1  group-title="Spanyol" tvg-logo="https://i.postimg.cc/63K6f4y2/Barca-TV.png",Barca TV
-https://webudit.onlinewebtv.lol/lb/premium522/index.m3u8
+https://webudit.onlinewebtv.lol/lb/premium522/index.m3u8?|referer=https://widevine.licenses4.me/&user_agent=Mozilla/5.0 (Linux; Android 11; SM-A307GN Build/RP1A.200720.012; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/107.0.5304.91 Mobile Safari/537.36 Vinebre
 
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=HLS
-#KODIPROP:http-headers=Referer=https://widevine.licenses4.me/,User-Agent=android-R+
 #EXTINF:-1  group-title="Sports" tvg-logo="https://i.postimg.cc/63K6f4y2/Barca-TV.png",Barca TV Spanyol
-https://webudit.onlinewebtv.lol/lb/premium522/index.m3u8
+https://webudit.onlinewebtv.lol/lb/premium522/index.m3u8?|referer=https://widevine.licenses4.me/&user_agent=Mozilla/5.0 (Linux; Android 11; SM-A307GN Build/RP1A.200720.012; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/107.0.5304.91 Mobile Safari/537.36 Vinebre
 
 ========== SERBIA ==========
 
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=HLS
-#KODIPROP:http-headers=Referer=https://widevine.licenses4.me/,User-Agent=Mozilla/5.0 (Linux; Android 11; SM-A307GN Build/RP1A.200720.012; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/107.0.5304.91 Mobile Safari/537.36 Vinebre
 #EXTINF:-1  group-title="Serbia" tvg-logo="https://i.postimg.cc/V6F38fPs/Arena-Sport-1-Premium-Serbia.png",Arena Sport 1 Premium
-https://ddy5.onlinewebtv.lol/ddy5/premium134/tracks-v1a1/mono.m3u8
+https://ddy5.onlinewebtv.lol/ddy5/premium134/tracks-v1a1/mono.m3u8?|referer=https://widevine.licenses4.me/&user_agent=Mozilla/5.0 (Linux; Android 11; SM-A307GN Build/RP1A.200720.012; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/107.0.5304.91 Mobile Safari/537.36 Vinebre
