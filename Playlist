@@ -959,5 +959,5 @@ https://webudit.onlinewebtv.lol/lb/premium540/index.m3u8?|referer=https://widevi
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://cubmu.hoheh.workers.dev/
-#EXTINF:-1 group-title="Transvision",TES
+#EXTINF:-1  group-title="Transvision" tvg-logo="",TES
 https://cdnjkt2.transvision.co.id:1001/live/master/3/4028c6856b6088c3016b87d64b970b53/manifest.mpd
