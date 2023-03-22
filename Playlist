@@ -783,17 +783,11 @@ https://unifi-live05.secureswiftcontent.com/UnifiHD/live27-1080FHD.m3u8
 
 ========== PORTUGAL ==========
 
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=HLS
-#KODIPROP:http-headers=Referer=https://widevine.licenses4.me/,User-Agent=android-R+
 #EXTINF:-14  group-title="Portugal" tvg-logo="https://i.postimg.cc/nz4mzc4N/Canal-11.png",Canal 11
-https://webudit.onlinewebtv.lol/lb/premium540/index.m3u8
+https://webudit.onlinewebtv.lol/lb/premium540/index.m3u8?|referer=https://widevine.licenses4.me/&user_agent=Mozilla/5.0 (Linux; Android 11; SM-A307GN Build/RP1A.200720.012; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/107.0.5304.91 Mobile Safari/537.36 Vinebre
 
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=HLS
-#KODIPROP:http-headers=Referer=https://widevine.licenses4.me/,User-Agent=android-R+
 #EXTINF:-14  group-title="Sports" tvg-logo="https://i.postimg.cc/nz4mzc4N/Canal-11.png",Canal 11 Portugal
-https://webudit.onlinewebtv.lol/lb/premium540/index.m3u8
+https://webudit.onlinewebtv.lol/lb/premium540/index.m3u8?|referer=https://widevine.licenses4.me/&user_agent=Mozilla/5.0 (Linux; Android 11; SM-A307GN Build/RP1A.200720.012; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/107.0.5304.91 Mobile Safari/537.36 Vinebre
 
 ========== ALBANIA ==========
 
@@ -963,49 +957,37 @@ http://kuchini.site:8080/tomstme300/tomasarenatelegramme300/157565
 
 ========== ISRAEL ==========
 
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=HLS
-#KODIPROP:http-headers=Referer=https://widevine.licenses4.me/,User-Agent=android-R+
 #EXTINF:-14  group-title="Israel" tvg-logo="https://i.postimg.cc/Pr1vYTDj/SPORT-ISRAEL.png",Sport 5
-https://webudit.onlinewebtv.lol/lb/premium146/index.m3u8
+https://webudit.onlinewebtv.lol/lb/premium146/index.m3u8?|referer=https://widevine.licenses4.me/&user_agent=Mozilla/5.0 (Linux; Android 11; SM-A307GN Build/RP1A.200720.012; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/107.0.5304.91 Mobile Safari/537.36 Vinebre
 
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=HLS
-#KODIPROP:http-headers=Referer=https://widevine.licenses4.me/,User-Agent=android-R+
 #EXTINF:-14  group-title="Sports" tvg-logo="https://i.postimg.cc/Pr1vYTDj/SPORT-ISRAEL.png",Sport 5 Israel
-https://webudit.onlinewebtv.lol/lb/premium146/index.m3u8
+https://webudit.onlinewebtv.lol/lb/premium146/index.m3u8?|referer=https://widevine.licenses4.me/&user_agent=Mozilla/5.0 (Linux; Android 11; SM-A307GN Build/RP1A.200720.012; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/107.0.5304.91 Mobile Safari/537.36 Vinebre
 
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=HLS
-#KODIPROP:http-headers=Referer=https://widevine.licenses4.me/,User-Agent=android-R+
 #EXTINF:-1  group-title="Israel" tvg-logo="https://i.postimg.cc/QCg00qJb/Sport-5-Plus-Israel.png",Sport 5 Plus Israel
-https://webudit.onlinewebtv.lol/lb/premium145/index.m3u8
+https://webudit.onlinewebtv.lol/lb/premium145/index.m3u8?|referer=https://widevine.licenses4.me/&user_agent=Mozilla/5.0 (Linux; Android 11; SM-A307GN Build/RP1A.200720.012; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/107.0.5304.91 Mobile Safari/537.36 Vinebre
 
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=HLS
-#KODIPROP:http-headers=Referer=https://widevine.licenses4.me/,User-Agent=android-R+
 #EXTINF:-1  group-title="Sports" tvg-logo="https://i.postimg.cc/QCg00qJb/Sport-5-Plus-Israel.png",Sport 5 Plus Israel
-https://webudit.onlinewebtv.lol/lb/premium145/index.m3u8
+https://webudit.onlinewebtv.lol/lb/premium145/index.m3u8?|referer=https://widevine.licenses4.me/&user_agent=Mozilla/5.0 (Linux; Android 11; SM-A307GN Build/RP1A.200720.012; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/107.0.5304.91 Mobile Safari/537.36 Vinebre
 
 ========== ESPANYOL ==========
 
 #EXTINF:-1  group-title="Spanyol" tvg-logo="https://i.postimg.cc/NMrbmqkd/Vamos-Spanyol.png",#Vamos
-https://webudit.onlinewebtv.lol/lb/premium521/index.m3u8?|referer=https://widevine.licenses4.me/&user_agent=android-R+
+https://webudit.onlinewebtv.lol/lb/premium521/index.m3u8?|referer=https://widevine.licenses4.me/&user_agent=Mozilla/5.0 (Linux; Android 11; SM-A307GN Build/RP1A.200720.012; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/107.0.5304.91 Mobile Safari/537.36 Vinebre
 
 #EXTINF:-1  group-title="Sports" tvg-logo="https://i.postimg.cc/NMrbmqkd/Vamos-Spanyol.png",#Vamos Spanyol
-https://webudit.onlinewebtv.lol/lb/premium521/index.m3u8?|referer=https://widevine.licenses4.me/&user_agent=android-R+
+https://webudit.onlinewebtv.lol/lb/premium521/index.m3u8?|referer=https://widevine.licenses4.me/&user_agent=Mozilla/5.0 (Linux; Android 11; SM-A307GN Build/RP1A.200720.012; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/107.0.5304.91 Mobile Safari/537.36 Vinebre
 
 #EXTINF:-1  group-title="Spanyol" tvg-logo="https://i.postimg.cc/8CMzSwzs/EUROSPORT-1.png",Eurosport 1
-https://webudit.onlinewebtv.lol/lb/premium524/index.m3u8?|referer=https://widevine.licenses4.me/&user_agent=android-R+
+https://webudit.onlinewebtv.lol/lb/premium524/index.m3u8?|referer=https://widevine.licenses4.me/&user_agent=Mozilla/5.0 (Linux; Android 11; SM-A307GN Build/RP1A.200720.012; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/107.0.5304.91 Mobile Safari/537.36 Vinebre
 
 #EXTINF:-1  group-title="Sports" tvg-logo="https://i.postimg.cc/8CMzSwzs/EUROSPORT-1.png",Eurosport 1 Spanyol
-https://webudit.onlinewebtv.lol/lb/premium524/index.m3u8?|referer=https://widevine.licenses4.me/&user_agent=android-R+
+https://webudit.onlinewebtv.lol/lb/premium524/index.m3u8?|referer=https://widevine.licenses4.me/&user_agent=Mozilla/5.0 (Linux; Android 11; SM-A307GN Build/RP1A.200720.012; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/107.0.5304.91 Mobile Safari/537.36 Vinebre
 
 #EXTINF:-1  group-title="Spanyol" tvg-logo="https://i.postimg.cc/rmTFFWDj/EUROSPORT-2.png",Eurosport 2
-https://webudit.onlinewebtv.lol/lb/premium525/index.m3u8?|referer=https://widevine.licenses4.me/&user_agent=android-R+
+https://webudit.onlinewebtv.lol/lb/premium525/index.m3u8?|referer=https://widevine.licenses4.me/&user_agent=Mozilla/5.0 (Linux; Android 11; SM-A307GN Build/RP1A.200720.012; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/107.0.5304.91 Mobile Safari/537.36 Vinebre
 
 #EXTINF:-1  group-title="Sports" tvg-logo="https://i.postimg.cc/rmTFFWDj/EUROSPORT-2.png",Eurosport 2 Spanyol
-https://webudit.onlinewebtv.lol/lb/premium525/index.m3u8?|referer=https://widevine.licenses4.me/&user_agent=android-R+
+https://webudit.onlinewebtv.lol/lb/premium525/index.m3u8?|referer=https://widevine.licenses4.me/&user_agent=Mozilla/5.0 (Linux; Android 11; SM-A307GN Build/RP1A.200720.012; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/107.0.5304.91 Mobile Safari/537.36 Vinebre
 
 #EXTINF:-1  group-title="Spanyol" tvg-logo="https://i.postimg.cc/hvJ0tmfH/be-IN-Sports-XTRA-n-Espanol.png",beIN Sports XTRA en Espanol
 https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/bein-sports-xtra-en-espanol/playlist.m3u8
@@ -1020,7 +1002,7 @@ http://sansat.net:25461/D7GFZQNdvbMZ1PH/9RuK03LqDvfPRXA/169503
 http://sansat.net:25461/D7GFZQNdvbMZ1PH/9RuK03LqDvfPRXA/169503
 
 #EXTINF:-1  group-title="Spanyol" tvg-logo="https://i.postimg.cc/JhZfkZdT/Movistar-La-Liga.png",Movistar LaLiga 
-https://ddy1.onlinewebtv.lol/ddy1/premium84/tracks-v1a1/mono.m3u8?|referer=https://widevine.licenses4.me/&user_agent=android-R+
+https://ddy1.onlinewebtv.lol/ddy1/premium84/tracks-v1a1/mono.m3u8?|referer=https://widevine.licenses4.me/&user_agent=Mozilla/5.0 (Linux; Android 11; SM-A307GN Build/RP1A.200720.012; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/107.0.5304.91 Mobile Safari/537.36 Vinebre
 
 #EXTINF:-1  group-title="Sports" tvg-logo="https://i.postimg.cc/JhZfkZdT/Movistar-La-Liga.png",Movistar LaLiga 
 https://ddy1.onlinewebtv.lol/ddy1/premium84/tracks-v1a1/mono.m3u8?|referer=https://widevine.licenses4.me/&user_agent=Mozilla/5.0 (Linux; Android 11; SM-A307GN Build/RP1A.200720.012; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/107.0.5304.91 Mobile Safari/537.36 Vinebre
@@ -1032,16 +1014,16 @@ http://sansat.net:25461/D7GFZQNdvbMZ1PH/9RuK03LqDvfPRXA/127851
 http://sansat.net:25461/D7GFZQNdvbMZ1PH/9RuK03LqDvfPRXA/127851
 
 #EXTINF:-1  group-title="Spanyol" tvg-logo="https://i.postimg.cc/JhZfkZdT/Movistar-La-Liga.png",Movistar LaLiga 3
-https://webudit.onlinewebtv.lol/lb/premium540/index.m3u8?|referer=https://widevine.licenses4.me/&user_agent=android-R+
+https://webudit.onlinewebtv.lol/lb/premium540/index.m3u8?|referer=https://widevine.licenses4.me/&user_agent=Mozilla/5.0 (Linux; Android 11; SM-A307GN Build/RP1A.200720.012; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/107.0.5304.91 Mobile Safari/537.36 Vinebre
 
 #EXTINF:-1  group-title="Sports" tvg-logo="https://i.postimg.cc/JhZfkZdT/Movistar-La-Liga.png",Movistar LaLiga  3
-https://webudit.onlinewebtv.lol/lb/premium540/index.m3u8?|referer=https://widevine.licenses4.me/&user_agent=android-R+
+https://webudit.onlinewebtv.lol/lb/premium540/index.m3u8?|referer=https://widevine.licenses4.me/&user_agent=Mozilla/5.0 (Linux; Android 11; SM-A307GN Build/RP1A.200720.012; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/107.0.5304.91 Mobile Safari/537.36 Vinebre
 
 #EXTINF:-1  group-title="Spanyol" tvg-logo="https://i.postimg.cc/0j1BPjfv/DAZN-La-Liga.png",DAZN LaLiga
-https://webudit.onlinewebtv.lol/lb/premium538/index.m3u8?|referer=https://widevine.licenses4.me/&user_agent=android-R+
+https://webudit.onlinewebtv.lol/lb/premium538/index.m3u8?|referer=https://widevine.licenses4.me/&user_agent=Mozilla/5.0 (Linux; Android 11; SM-A307GN Build/RP1A.200720.012; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/107.0.5304.91 Mobile Safari/537.36 Vinebre
 
 #EXTINF:-1  group-title="Sports" tvg-logo="https://i.postimg.cc/0j1BPjfv/DAZN-La-Liga.png",DAZN LaLiga Spanyol
-https://webudit.onlinewebtv.lol/lb/premium538/index.m3u8?|referer=https://widevine.licenses4.me/&user_agent=android-R+
+https://webudit.onlinewebtv.lol/lb/premium538/index.m3u8?|referer=https://widevine.licenses4.me/&user_agent=Mozilla/5.0 (Linux; Android 11; SM-A307GN Build/RP1A.200720.012; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/107.0.5304.91 Mobile Safari/537.36 Vinebre
 
 #EXTINF:-1  group-title="Spanyol" tvg-logo="https://i.postimg.cc/0j1BPjfv/DAZN-La-Liga.png",DAZN LaLiga 2
 http://sansat.net:25461/D7GFZQNdvbMZ1PH/9RuK03LqDvfPRXA/195454
@@ -1050,34 +1032,34 @@ http://sansat.net:25461/D7GFZQNdvbMZ1PH/9RuK03LqDvfPRXA/195454
 http://sansat.net:25461/D7GFZQNdvbMZ1PH/9RuK03LqDvfPRXA/195454
 
 #EXTINF:-1  group-title="Spanyol" tvg-logo="https://i.postimg.cc/Njry305b/DAZN-1.png",DAZN 1
-https://webudit.onlinewebtv.lol/lb/premium445/index.m3u8?|referer=https://widevine.licenses4.me/&user_agent=android-R+
+https://webudit.onlinewebtv.lol/lb/premium445/index.m3u8?|referer=https://widevine.licenses4.me/&user_agent=Mozilla/5.0 (Linux; Android 11; SM-A307GN Build/RP1A.200720.012; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/107.0.5304.91 Mobile Safari/537.36 Vinebre
 
 #EXTINF:-1  group-title="Sports" tvg-logo="https://i.postimg.cc/Njry305b/DAZN-1.png",DAZN 1 Spanyol
-https://webudit.onlinewebtv.lol/lb/premium445/index.m3u8?|referer=https://widevine.licenses4.me/&user_agent=android-R+
+https://webudit.onlinewebtv.lol/lb/premium445/index.m3u8?|referer=https://widevine.licenses4.me/&user_agent=Mozilla/5.0 (Linux; Android 11; SM-A307GN Build/RP1A.200720.012; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/107.0.5304.91 Mobile Safari/537.36 Vinebre
 
 #EXTINF:-1  group-title="Spanyol" tvg-logo="https://i.postimg.cc/Njry305b/DAZN-1.png",DAZN 2
-https://webudit.onlinewebtv.lol/lb/premium446/index.m3u8?|referer=https://widevine.licenses4.me/&user_agent=android-R+
+https://webudit.onlinewebtv.lol/lb/premium446/index.m3u8?|referer=https://widevine.licenses4.me/&user_agent=Mozilla/5.0 (Linux; Android 11; SM-A307GN Build/RP1A.200720.012; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/107.0.5304.91 Mobile Safari/537.36 Vinebre
 
 #EXTINF:-1  group-title="Sports" tvg-logo="https://i.postimg.cc/Njry305b/DAZN-1.png",DAZN 2 Spanyol
-https://webudit.onlinewebtv.lol/lb/premium446/index.m3u8?|referer=https://widevine.licenses4.me/&user_agent=android-R+
+https://webudit.onlinewebtv.lol/lb/premium446/index.m3u8?|referer=https://widevine.licenses4.me/&user_agent=Mozilla/5.0 (Linux; Android 11; SM-A307GN Build/RP1A.200720.012; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/107.0.5304.91 Mobile Safari/537.36 Vinebre
 
 #EXTINF:-1  group-title="Spanyol" tvg-logo="https://i.postimg.cc/Njry305b/DAZN-1.png",DAZN 3
-https://webudit.onlinewebtv.lol/lb/premium447/index.m3u8?|referer=https://widevine.licenses4.me/&user_agent=android-R+
+https://webudit.onlinewebtv.lol/lb/premium447/index.m3u8?|referer=https://widevine.licenses4.me/&user_agent=Mozilla/5.0 (Linux; Android 11; SM-A307GN Build/RP1A.200720.012; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/107.0.5304.91 Mobile Safari/537.36 Vinebre
 
 #EXTINF:-1  group-title="Sports" tvg-logo="https://i.postimg.cc/Njry305b/DAZN-1.png",DAZN 3 Spanyol
-https://webudit.onlinewebtv.lol/lb/premium447/index.m3u8?|referer=https://widevine.licenses4.me/&user_agent=android-R+
+https://webudit.onlinewebtv.lol/lb/premium447/index.m3u8?|referer=https://widevine.licenses4.me/&user_agent=Mozilla/5.0 (Linux; Android 11; SM-A307GN Build/RP1A.200720.012; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/107.0.5304.91 Mobile Safari/537.36 Vinebre
 
 #EXTINF:-1  group-title="Spanyol" tvg-logo="https://i.postimg.cc/Njry305b/DAZN-1.png",DAZN 4
-https://webudit.onlinewebtv.lol/lb/premium448/index.m3u8?|referer=https://widevine.licenses4.me/&user_agent=android-R+
+https://webudit.onlinewebtv.lol/lb/premium448/index.m3u8?|referer=https://widevine.licenses4.me/&user_agent=Mozilla/5.0 (Linux; Android 11; SM-A307GN Build/RP1A.200720.012; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/107.0.5304.91 Mobile Safari/537.36 Vinebre
 
 #EXTINF:-1  group-title="Sports" tvg-logo="https://i.postimg.cc/Njry305b/DAZN-1.png",DAZN 4 Spanyol
-https://webudit.onlinewebtv.lol/lb/premium448/index.m3u8?|referer=https://widevine.licenses4.me/&user_agent=android-R+
+https://webudit.onlinewebtv.lol/lb/premium448/index.m3u8?|referer=https://widevine.licenses4.me/&user_agent=Mozilla/5.0 (Linux; Android 11; SM-A307GN Build/RP1A.200720.012; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/107.0.5304.91 Mobile Safari/537.36 Vinebre
 
 #EXTINF:-1  group-title="Spanyol" tvg-logo="https://i.postimg.cc/ht50CwQx/DAZN-F1.png",DAZN F1
-https://webudit.onlinewebtv.lol/lb/premium537/index.m3u8?|referer=https://widevine.licenses4.me/&user_agent=android-R+
+https://webudit.onlinewebtv.lol/lb/premium537/index.m3u8?|referer=https://widevine.licenses4.me/&user_agent=Mozilla/5.0 (Linux; Android 11; SM-A307GN Build/RP1A.200720.012; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/107.0.5304.91 Mobile Safari/537.36 Vinebre
 
 #EXTINF:-1  group-title="Sports" tvg-logo="https://i.postimg.cc/ht50CwQx/DAZN-F1.png",DAZN F1 Spanyol
-https://webudit.onlinewebtv.lol/lb/premium537/index.m3u8?|referer=https://widevine.licenses4.me/&user_agent=android-R+
+https://webudit.onlinewebtv.lol/lb/premium537/index.m3u8?|referer=https://widevine.licenses4.me/&user_agent=Mozilla/5.0 (Linux; Android 11; SM-A307GN Build/RP1A.200720.012; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/107.0.5304.91 Mobile Safari/537.36 Vinebre
 
 #EXTINF:-1  group-title="Spanyol" tvg-logo="https://i.postimg.cc/y8W1zCRK/La-Liga-Smart-Bank-TV.png",LaLiga Smartbank
 https://webudit.onlinewebtv.lol/lb/premium539/index.m3u8?|referer=https://widevine.licenses4.me/&user_agent=Mozilla/5.0 (Linux; Android 11; SM-A307GN Build/RP1A.200720.012; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/107.0.5304.91 Mobile Safari/537.36 Vinebre
