@@ -1005,13 +1005,13 @@ https://webudit.onlinewebtv.lol/lb/premium537/index.m3u8?|referer=https://widevi
 https://webudit.onlinewebtv.lol/lb/premium537/index.m3u8?|referer=https://widevine.licenses4.me/&user_agent=android-R+
 
 #KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.manifest_type=HLS
 #KODIPROP:http-headers=Referer=https://widevine.licenses4.me/,User-Agent=android-R+
 #EXTINF:-1  group-title="Spanyol" tvg-logo="https://i.postimg.cc/y8W1zCRK/La-Liga-Smart-Bank-TV.png",LaLiga Smartbank
 https://webudit.onlinewebtv.lol/lb/premium539/index.m3u8
 
 #KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.manifest_type=HLS
 #KODIPROP:http-headers=Referer=https://widevine.licenses4.me/,User-Agent=android-R+
 #EXTINF:-1  group-title="Sports" tvg-logo="https://i.postimg.cc/y8W1zCRK/La-Liga-Smart-Bank-TV.png",LaLiga Smartbank Spanyol
 https://webudit.onlinewebtv.lol/lb/premium539/index.m3u8
