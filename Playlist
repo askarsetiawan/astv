@@ -1,11 +1,16 @@
 ========== Liga Indonesia | BRI Liga 1 ==========
 
+========== Kualifikasi Euro U-17 ==========
+
+#EXTM3U
+#EXTINF:-14  group-title="Kualifikasi Euro U-17" tvg-logo="https://img.uefa.com/imgml/uefacom/under17/social/og-default.jpg",Perancis U-17 vs Albania U-17 | 16:00
+http://sansat.net:25461/D7GFZQNdvbMZ1PH/9RuK03LqDvfPRXA/96127
 
 
 ========== INDONESIA ==========
 
 #EXTM3U
-#EXTINF:-1 tvg-id="1" tvg-name="Channel 1" tvg-logo="https://i.postimg.cc/nhBWyNNP/INDOSIAR-ORANGE-PUTIH-1.png" group-title="Indonesia",Indosiar
+#EXTINF:-1  group-title="Indonesia" tvg-logo="https://i.postimg.cc/nhBWyNNP/INDOSIAR-ORANGE-PUTIH-1.png",Indosiar
 http://mpwtv.my.id/vidioye/205-indosiar.m3u8
 
 #EXTINF:-2 tvg-id="2" tvg-name="Channel 2" tvg-logo="https://i.postimg.cc/fb8mbjFh/MNC-TV-ORANGE.png" group-title="Indonesia",MNC TV
