@@ -706,10 +706,10 @@ https://moonbug-rokuus.amagi.tv/playlist.m3u8
 #EXT:-1  group-title="Anak" tvg-logo="",TVO Kids
 https://bcsecurelivehls-i.akamaihd.net/hls/live/623607/15364602001/tvokids/master.m3u8
 
-#EXTINF:-1  group-title="Anak" tvg-logo="",Toon Max
+#EXTINF:-1  group-title="Anak" tvg-logo="https://i.postimg.cc/Pxr5rZG9/Toon-Max.png",Toon Max
 http://210.210.155.35/qwr9ew/s/s50/index2.m3u8
 
-#EXTINF:-1  group-title="Anak" tvg-logo="",PBS Kids
+#EXTINF:-1  group-title="Anak" tvg-logo="https://i.postimg.cc/1tC5gtst/PBS-Kids.png",PBS Kids
 https://2-fss-2.streamhoster.com/pl_140/amlst:200914-1298290/playlist.m3u8?DVR
 
 #EXTINF:-1  group-title="Anak" tvg-logo="",Dora TV
