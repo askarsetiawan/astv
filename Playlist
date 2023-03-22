@@ -62,6 +62,12 @@ https://production-drm-vidio-com-event-1.akamaized.net/out/v1/6ae0fdb0f6ee4b10b5
 #EXTINF:-6 tvg-id="6" tvg-name="Channel 2" tvg-logo="https://i.postimg.cc/vHdMsncb/champions-tv-1.png" group-title="Sports",Champions TV 1
 https://production-drm-vidio-com-event-1.akamaized.net/out/v1/6ae0fdb0f6ee4b10b5497efc10f0ce03/index.mpd
 
+#EXTINF:-14  group-title="Indonesia" tvg-logo="https://i.postimg.cc/vHdMsncb/champions-tv-1.png",Champions TV 1 (2)
+http://103.167.167.5:8111/play/a01p/index.m3u8
+
+#EXTINF:-14  group-title="Sports" tvg-logo="https://i.postimg.cc/vHdMsncb/champions-tv-1.png",Champions TV 1 (2)
+http://103.167.167.5:8111/play/a01p/index.m3u8
+
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptif.license_key=https://lsbtv.livestreaming.repl.co/pemutar/nsplayer/ctv2key.html
 #EXTINF:-7 tvg-id="7" tvg-name="Channel 2" tvg-logo="https://i.postimg.cc/pV61HMrv/champions-tv-2.png" group-title="Indonesia",Champions TV 2
@@ -71,6 +77,12 @@ https://production-drm-vidio-com-event-2.akamaized.net/out/v1/078b12e86d0a4f75b4
 #KODIPROP:inputstream.adaptif.license_key=https://lsbtv.livestreaming.repl.co/pemutar/nsplayer/ctv2key.html
 #EXTINF:-7 tvg-id="7" tvg-name="Channel 2" tvg-logo="https://i.postimg.cc/pV61HMrv/champions-tv-2.png" group-title="Sports",Champions TV 2
 https://production-drm-vidio-com-event-2.akamaized.net/out/v1/078b12e86d0a4f75b4c7ce1ed23d82d9/index.mpd
+
+#EXTINF:-14  group-title="Indonesia" tvg-logo="https://i.postimg.cc/pV61HMrv/champions-tv-2.png",Champions TV 2 (2)
+http://103.167.167.5:8111/play/a01q/66778171.m3u8
+
+#EXTINF:-14  group-title="Sports" tvg-logo="https://i.postimg.cc/pV61HMrv/champions-tv-2.png",Champions TV 2 (2)
+http://103.167.167.5:8111/play/a01q/66778171.m3u8
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptif.license_key=https://lsbtv.livestreaming.repl.co/pemutar/nsplayer/ctv3key.html
@@ -843,10 +855,10 @@ http://humiptv.live:8080/live/876465421460/087543135678/143007.ts
 http://humiptv.live:8080/live/876465421460/087543135678/143007.ts
 
 #EXTINF:-1  group-title="Malaysia" tvg-logo="https://i.postimg.cc/mgfZ6GTq/Astro-Arena-Bola-2.png",Astro Arena Bola 2
-https://dannyez.b-cdn.net/bola2.m3u8
+http://syok.tv:25461/Anas23/1234/16008
 
 #EXTINF:-1  group-title="Sports" tvg-logo="https://i.postimg.cc/mgfZ6GTq/Astro-Arena-Bola-2.png",Astro Arena Bola 2
-https://dannyez.b-cdn.net/bola2.m3u8
+http://syok.tv:25461/Anas23/1234/16008
 
 #EXTINF:-1  group-title="Malaysia" tvg-logo="https://i.postimg.cc/cH2kCd4m/be-IN-Sports-Malaysia.png",beIN Sports
 http://kuchini.site:8080/protoniumtv2020/17WRSJzBtnYMn0jg4zK5/157561
