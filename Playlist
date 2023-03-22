@@ -34,19 +34,19 @@ https://webudit.onlinewebtv.lol/lb/premium540/index.m3u8
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=HLS
 #KODIPROP:http-headers=Referer=https://widevine.licenses4.me/,User-Agent=android-R+
-#EXTINF:-14  group-title="Kualifikasi Euro U-17" tvg-logo="https://img.uefa.com/imgml/uefacom/under17/social/og-default.jpg",Israel U-19 vs Polandia U-19 | 20:00
+#EXTINF:-14  group-title="Kualifikasi Euro U-19" tvg-logo="https://img.uefa.com/imgml/uefacom/under19/social/og-default.jpg",Israel U-19 vs Polandia U-19 | 20:00
 https://webudit.onlinewebtv.lol/lb/premium144/index.m3u8
 
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=HLS
 #KODIPROP:http-headers=Referer=https://widevine.licenses4.me/,User-Agent=android-R+
-#EXTINF:-14  group-title="Kualifikasi Euro U-17" tvg-logo="https://img.uefa.com/imgml/uefacom/under19/social/og-default.jpg",Republik Ceko U-19 vs Kroasia U-19 | 18:00
+#EXTINF:-14  group-title="Kualifikasi Euro U-19" tvg-logo="https://img.uefa.com/imgml/uefacom/under19/social/og-default.jpg",Republik Ceko U-19 vs Kroasia U-19 | 18:00
 https://webudit.onlinewebtv.lol/lb/premium540/index.m3u8
 
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=HLS
 #KODIPROP:http-headers=Referer=https://widevine.licenses4.me/,User-Agent=android-R+
-#EXTINF:-14  group-title="Kualifikasi Euro U-17" tvg-logo="https://img.uefa.com/imgml/uefacom/under17/social/og-default.jpg",Denmark U-19 vs Spanyol U-19 | 23:00
+#EXTINF:-14  group-title="Kualifikasi Euro U-19" tvg-logo="https://img.uefa.com/imgml/uefacom/under19/social/og-default.jpg",Denmark U-19 vs Spanyol U-19 | 23:00
 https://webudit.onlinewebtv.lol/lb/premium134/index.m3u8
 
 
