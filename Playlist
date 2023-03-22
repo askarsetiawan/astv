@@ -15,7 +15,7 @@ https://webudit.onlinewebtv.lol/lb/premium145/index.m3u8
 #KODIPROP:inputstream.adaptive.manifest_type=HLS
 #KODIPROP:http-headers=Referer=https://widevine.licenses4.me/,User-Agent=android-R+
 #EXTINF:-14  group-title="Kualifikasi Euro U-17" tvg-logo="https://img.uefa.com/imgml/uefacom/under17/social/og-default.jpg",Serbia U-17 vs Belarus U-17 | 20:00
-https://webudit.onlinewebtv.lol/lb/premium134/index.m3u8
+https://ddy5.onlinewebtv.lol/ddy5/premium134/tracks-v1a1/mono.m3u8
 
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=HLS
@@ -35,7 +35,7 @@ https://webudit.onlinewebtv.lol/lb/premium540/index.m3u8
 #KODIPROP:inputstream.adaptive.manifest_type=HLS
 #KODIPROP:http-headers=Referer=https://widevine.licenses4.me/,User-Agent=android-R+
 #EXTINF:-14  group-title="Kualifikasi Euro U-19" tvg-logo="https://img.uefa.com/imgml/uefacom/under19/social/og-default.jpg",Israel U-19 vs Polandia U-19 | 20:00
-https://webudit.onlinewebtv.lol/lb/premium144/index.m3u8
+https://webudit.onlinewebtv.lol/lb/premium146/index.m3u8
 
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=HLS
@@ -988,13 +988,13 @@ http://kuchini.site:8080/tomstme300/tomasarenatelegramme300/157565
 #KODIPROP:inputstream.adaptive.manifest_type=HLS
 #KODIPROP:http-headers=Referer=https://widevine.licenses4.me/,User-Agent=android-R+
 #EXTINF:-14  group-title="Israel" tvg-logo="https://i.postimg.cc/Pr1vYTDj/SPORT-ISRAEL.png",Sport 5
-https://webudit.onlinewebtv.lol/lb/premium144/index.m3u8
+https://webudit.onlinewebtv.lol/lb/premium146/index.m3u8
 
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=HLS
 #KODIPROP:http-headers=Referer=https://widevine.licenses4.me/,User-Agent=android-R+
 #EXTINF:-14  group-title="Sports" tvg-logo="https://i.postimg.cc/Pr1vYTDj/SPORT-ISRAEL.png",Sport 5 Israel
-https://webudit.onlinewebtv.lol/lb/premium144/index.m3u8
+https://webudit.onlinewebtv.lol/lb/premium146/index.m3u8
 
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=HLS
