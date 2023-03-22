@@ -789,22 +789,6 @@ https://unifi-live05.secureswiftcontent.com/UnifiHD/live27-1080FHD.m3u8
 #EXTINF:-1  group-title="Movies" tvg-logo="https://i.postimg.cc/XYv8mzBM/Dunia-Sinema.png",Dunia Sinema
 https://unifi-live05.secureswiftcontent.com/UnifiHD/live27-1080FHD.m3u8
 
-========== PORTUGAL ==========
-
-#EXTINF:-14  group-title="Portugal" tvg-logo="https://i.postimg.cc/nz4mzc4N/Canal-11.png",Canal 11
-https://webudit.onlinewebtv.lol/lb/premium540/index.m3u8?|referer=https://widevine.licenses4.me/&user_agent=Mozilla/5.0 (Linux; Android 11; SM-A307GN Build/RP1A.200720.012; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/107.0.5304.91 Mobile Safari/537.36 Vinebre
-
-#EXTINF:-14  group-title="Sports" tvg-logo="https://i.postimg.cc/nz4mzc4N/Canal-11.png",Canal 11 Portugal
-https://webudit.onlinewebtv.lol/lb/premium540/index.m3u8?|referer=https://widevine.licenses4.me/&user_agent=Mozilla/5.0 (Linux; Android 11; SM-A307GN Build/RP1A.200720.012; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/107.0.5304.91 Mobile Safari/537.36 Vinebre
-
-========== ALBANIA ==========
-
-#EXTINF:-14  group-title="Albania" tvg-logo="https://i.postimg.cc/4x3Y2W4w/Super-Sport-Albania.png",Super Sport 2
-http://sansat.net:25461/D7GFZQNdvbMZ1PH/9RuK03LqDvfPRXA/96127
-
-#EXTINF:-14  group-title="Sports" tvg-logo="https://i.postimg.cc/4x3Y2W4w/Super-Sport-Albania.png",Super Sport 2
-http://sansat.net:25461/D7GFZQNdvbMZ1PH/9RuK03LqDvfPRXA/96127
-
 ========== MALAYSIA ==========
 
 #EXTINF:-1  group-title="Malaysia" tvg-logo="https://i.ibb.co/VgtCx8P/tv1.png",tv1
@@ -962,6 +946,102 @@ http://kuchini.site:8080/tomstme300/tomasarenatelegramme300/157565
 
 #EXTINF:-1  group-title="Malaysia" tvg-logo="https://i.ibb.co/KNB2n2L/astro-cricket.png",Astro Cricket
 http://kuchini.site:8080/tomstme300/tomasarenatelegramme300/157565
+
+========== SINGAPURA ==========
+
+#EXTINF:-1  group-title="Singapura" tvg-logo="https://i.postimg.cc/m2Fd27fb/HUB-Sports.png",HUB Sports 1
+http://185.243.7.13/play/live.php?mac=00:1A:79:45:5E:9A&stream=941573&extension=ts&play_token=1kEm8DbZmS
+
+#EXTINF:-1  group-title="Sports" tvg-logo="https://i.postimg.cc/m2Fd27fb/HUB-Sports.png",HUB Sports 1 Singapura
+http://185.243.7.13/play/live.php?mac=00:1A:79:45:5E:9A&stream=941573&extension=ts&play_token=1kEm8DbZmS
+
+#EXTINF:-1  group-title="Singapura" tvg-logo="https://i.postimg.cc/m2Fd27fb/HUB-Sports.png",HUB Sports 2
+http://185.243.7.13/play/live.php?mac=00:1A:79:45:5E:9A&stream=941572&extension=ts&play_token=1kEm8DbZmS
+
+#EXTINF:-1  group-title="Sports" tvg-logo="https://i.postimg.cc/m2Fd27fb/HUB-Sports.png",HUB Sports 2 Singapura
+http://185.243.7.13/play/live.php?mac=00:1A:79:45:5E:9A&stream=941572&extension=ts&play_token=1kEm8DbZmS
+
+#EXTINF:-1  group-title="Singapura" tvg-logo="https://i.postimg.cc/gjxghZxH/HUB-Premier.png",HUB Premier 1
+http://eucable.net:80/qamar/qamar/426734
+
+#EXTINF:-1  group-title="Sports" tvg-logo="https://i.postimg.cc/gjxghZxH/HUB-Premier.png",HUB Premier 1 Singapura
+http://eucable.net:80/qamar/qamar/426734
+
+#EXTINF:-1  group-title="Singapura" tvg-logo="https://i.postimg.cc/gjxghZxH/HUB-Premier.png",HUB Premier 2
+http://eucable.net:80/qamar/qamar/426733
+
+#EXTINF:-1  group-title="Sports" tvg-logo="https://i.postimg.cc/gjxghZxH/HUB-Premier.png",HUB Premier 2 Singapura
+http://eucable.net:80/qamar/qamar/426733
+
+#EXTINF:-1  group-title="Singapura" tvg-logo="https://i.postimg.cc/gjxghZxH/HUB-Premier.png",HUB Premier 3
+http://eucable.net:80/qamar/qamar/426732
+
+#EXTINF:-1  group-title="Sports" tvg-logo="https://i.postimg.cc/gjxghZxH/HUB-Premier.png",HUB Premier 3 Singapura
+http://eucable.net:80/qamar/qamar/426732
+
+#EXTINF:-1  group-title="Singapura" tvg-logo="https://i.postimg.cc/gjxghZxH/HUB-Premier.png",HUB Premier 4
+http://eucable.net:80/qamar/qamar/426731
+
+#EXTINF:-1  group-title="Sports" tvg-logo="https://i.postimg.cc/gjxghZxH/HUB-Premier.png",HUB Premier 4 Singapura
+http://eucable.net:80/qamar/qamar/426731
+
+#EXTINF:-1  group-title="Singapura" tvg-logo="https://i.postimg.cc/gjxghZxH/HUB-Premier.png",HUB Premier 5
+http://eucable.net:80/qamar/qamar/426730
+
+#EXTINF:-1  group-title="Sports" tvg-logo="https://i.postimg.cc/gjxghZxH/HUB-Premier.png",HUB Premier 5 Singapura
+http://eucable.net:80/qamar/qamar/426730
+
+#EXTINF:-1  group-title="Singapura" tvg-logo="https://i.postimg.cc/gjxghZxH/HUB-Premier.png",HUB Premier 6
+http://eucable.net:80/qamar/qamar/426729
+
+#EXTINF:-1  group-title="Sports" tvg-logo="https://i.postimg.cc/gjxghZxH/HUB-Premier.png",HUB Premier 6 Singapura
+http://eucable.net:80/qamar/qamar/426729
+
+#EXTINF:-1  group-title="Singapura" tvg-logo="https://i.postimg.cc/gjxghZxH/HUB-Premier.png",HUB Premier 7
+http://eucable.net:80/qamar/qamar/426728
+
+#EXTINF:-1  group-title="Sports" tvg-logo="https://i.postimg.cc/gjxghZxH/HUB-Premier.png",HUB Premier 7 Singapura
+http://eucable.net:80/qamar/qamar/426728
+
+#EXTINF:-1  group-title="Singapura" tvg-logo="https://i.postimg.cc/gjxghZxH/HUB-Premier.png",HUB Premier 8
+http://eucable.net:80/qamar/qamar/426727
+
+#EXTINF:-1  group-title="Sports" tvg-logo="https://i.postimg.cc/gjxghZxH/HUB-Premier.png",HUB Premier 8 Singapura
+http://eucable.net:80/qamar/qamar/426727
+
+#EXTINF:-1  group-title="Singapura" tvg-logo="https://i.postimg.cc/gjxghZxH/HUB-Premier.png",HUB Premier 9
+http://eucable.net:80/qamar/qamar/426726
+
+#EXTINF:-1  group-title="Sports" tvg-logo="https://i.postimg.cc/gjxghZxH/HUB-Premier.png",HUB Premier 9 Singapura
+http://eucable.net:80/qamar/qamar/426726
+
+#EXTINF:-1  group-title="Singapura" tvg-logo="https://i.postimg.cc/gjxghZxH/HUB-Premier.png",HUB Premier 10
+http://eucable.net:80/qamar/qamar/426725
+
+#EXTINF:-1  group-title="Sports" tvg-logo="https://i.postimg.cc/gjxghZxH/HUB-Premier.png",HUB Premier 10 Singapura
+http://eucable.net:80/qamar/qamar/426725
+
+#EXTINF:-1  group-title="Singapura" tvg-logo="https://i.postimg.cc/gjxghZxH/HUB-Premier.png",HUB Premier 11
+http://eucable.net:80/qamar/qamar/426724
+
+#EXTINF:-1  group-title="Sports" tvg-logo="https://i.postimg.cc/gjxghZxH/HUB-Premier.png",HUB Premier 11 Singapura
+http://eucable.net:80/qamar/qamar/426724
+
+========== PORTUGAL ==========
+
+#EXTINF:-14  group-title="Portugal" tvg-logo="https://i.postimg.cc/nz4mzc4N/Canal-11.png",Canal 11
+https://webudit.onlinewebtv.lol/lb/premium540/index.m3u8?|referer=https://widevine.licenses4.me/&user_agent=Mozilla/5.0 (Linux; Android 11; SM-A307GN Build/RP1A.200720.012; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/107.0.5304.91 Mobile Safari/537.36 Vinebre
+
+#EXTINF:-14  group-title="Sports" tvg-logo="https://i.postimg.cc/nz4mzc4N/Canal-11.png",Canal 11 Portugal
+https://webudit.onlinewebtv.lol/lb/premium540/index.m3u8?|referer=https://widevine.licenses4.me/&user_agent=Mozilla/5.0 (Linux; Android 11; SM-A307GN Build/RP1A.200720.012; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/107.0.5304.91 Mobile Safari/537.36 Vinebre
+
+========== ALBANIA ==========
+
+#EXTINF:-14  group-title="Albania" tvg-logo="https://i.postimg.cc/4x3Y2W4w/Super-Sport-Albania.png",Super Sport 2
+http://sansat.net:25461/D7GFZQNdvbMZ1PH/9RuK03LqDvfPRXA/96127
+
+#EXTINF:-14  group-title="Sports" tvg-logo="https://i.postimg.cc/4x3Y2W4w/Super-Sport-Albania.png",Super Sport 2
+http://sansat.net:25461/D7GFZQNdvbMZ1PH/9RuK03LqDvfPRXA/96127
 
 ========== ISRAEL ==========
 
