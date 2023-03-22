@@ -961,3 +961,45 @@ https://webudit.onlinewebtv.lol/lb/premium540/index.m3u8?|referer=https://widevi
 
 #EXTINF:-1  group-title="Sports" tvg-logo="https://i.postimg.cc/JhZfkZdT/Movistar-La-Liga.png",Movistar LaLiga  3
 https://webudit.onlinewebtv.lol/lb/premium540/index.m3u8?|referer=https://widevine.licenses4.me/&user_agent=android-R+
+
+#EXTINF:-1  group-title="Spanyol" tvg-logo="https://i.postimg.cc/0j1BPjfv/DAZN-La-Liga.png",DAZN LaLiga
+https://webudit.onlinewebtv.lol/lb/premium538/index.m3u8?|referer=https://widevine.licenses4.me/&user_agent=android-R+
+
+#EXTINF:-1  group-title="Sports" tvg-logo="https://i.postimg.cc/0j1BPjfv/DAZN-La-Liga.png",DAZN LaLiga Spanyol
+https://webudit.onlinewebtv.lol/lb/premium538/index.m3u8?|referer=https://widevine.licenses4.me/&user_agent=android-R+
+
+#EXTINF:-1  group-title="Spanyol" tvg-logo="https://i.postimg.cc/0j1BPjfv/DAZN-La-Liga.png",DAZN LaLiga 2
+http://sansat.net:25461/D7GFZQNdvbMZ1PH/9RuK03LqDvfPRXA/195454
+
+#EXTINF:-1  group-title="Sports" tvg-logo="https://i.postimg.cc/0j1BPjfv/DAZN-La-Liga.png",DAZN LaLiga 2 Spanyol
+http://sansat.net:25461/D7GFZQNdvbMZ1PH/9RuK03LqDvfPRXA/195454
+
+#EXTINF:-1  group-title="Spanyol" tvg-logo="https://i.postimg.cc/Njry305b/DAZN-1.png",DAZN 1
+https://webudit.onlinewebtv.lol/lb/premium445/index.m3u8?|referer=https://widevine.licenses4.me/&user_agent=android-R+
+
+#EXTINF:-1  group-title="Sports" tvg-logo="https://i.postimg.cc/Njry305b/DAZN-1.png",DAZN 1 Spanyol
+https://webudit.onlinewebtv.lol/lb/premium445/index.m3u8?|referer=https://widevine.licenses4.me/&user_agent=android-R+
+
+#EXTINF:-1  group-title="Spanyol" tvg-logo="https://i.postimg.cc/Njry305b/DAZN-1.png",DAZN 2
+https://webudit.onlinewebtv.lol/lb/premium446/index.m3u8?|referer=https://widevine.licenses4.me/&user_agent=android-R+
+
+#EXTINF:-1  group-title="Sports" tvg-logo="https://i.postimg.cc/Njry305b/DAZN-1.png",DAZN 2 Spanyol
+https://webudit.onlinewebtv.lol/lb/premium446/index.m3u8?|referer=https://widevine.licenses4.me/&user_agent=android-R+
+
+#EXTINF:-1  group-title="Spanyol" tvg-logo="https://i.postimg.cc/Njry305b/DAZN-1.png",DAZN 3
+https://webudit.onlinewebtv.lol/lb/premium447/index.m3u8?|referer=https://widevine.licenses4.me/&user_agent=android-R+
+
+#EXTINF:-1  group-title="Sports" tvg-logo="https://i.postimg.cc/Njry305b/DAZN-1.png",DAZN 3 Spanyol
+https://webudit.onlinewebtv.lol/lb/premium447/index.m3u8?|referer=https://widevine.licenses4.me/&user_agent=android-R+
+
+#EXTINF:-1  group-title="Spanyol" tvg-logo="https://i.postimg.cc/Njry305b/DAZN-1.png",DAZN 4
+https://webudit.onlinewebtv.lol/lb/premium448/index.m3u8?|referer=https://widevine.licenses4.me/&user_agent=android-R+
+
+#EXTINF:-1  group-title="Sports" tvg-logo="https://i.postimg.cc/Njry305b/DAZN-1.png",DAZN 4 Spanyol
+https://webudit.onlinewebtv.lol/lb/premium448/index.m3u8?|referer=https://widevine.licenses4.me/&user_agent=android-R+
+
+#EXTINF:-1  group-title="Spanyol" tvg-logo="https://i.postimg.cc/ht50CwQx/DAZN-F1.png",DAZN F1
+https://webudit.onlinewebtv.lol/lb/premium537/index.m3u8?|referer=https://widevine.licenses4.me/&user_agent=android-R+
+
+#EXTINF:-1  group-title="Sports" tvg-logo="https://i.postimg.cc/ht50CwQx/DAZN-F1.png",DAZN F1 Spanyol
+https://webudit.onlinewebtv.lol/lb/premium537/index.m3u8?|referer=https://widevine.licenses4.me/&user_agent=android-R+
