@@ -2,8 +2,32 @@
 
 ========== UEFA Euro Qualifying ==========
 
-#EXTINF:-1  group-title="UEFA Euro Qualifying" tvg-logo="https://i.postimg.cc/9QHKTSgv/BG-LIVE-EVENT.png",22.00 WIB | Kazakhstan vs Slovenia
+#EXTINF:-1  group-title="Kualifikasi Piala Eropa" tvg-logo="https://i.postimg.cc/9QHKTSgv/BG-LIVE-EVENT.png",22.00 WIB | Kazakhstan vs Slovenia
 https://newtest.onlinewebtv.lol/ddy6/premium572/tracks-v1a1/mono.m3u8?|referer=https://widevine.licenses4.me/&user_agent=Mozilla/5.0 (Linux; Android 11; SM-A307GN Build/RP1A.200720.012; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/107.0.5304.91 Mobile Safari/537.36 Vinebre
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=ZjMwNDEzZTItYTdkMS0zY2NlLTljODAtZmEwYjI3ZDg0NWE0
+#EXTINF:-1  group-title="Kualifikasi Piala Eropa" tvg-logo="https://i.postimg.cc/8kr0D0WJ/BG-LIVE-EVENT.png",02.45 WIB | Italia vs Inggris
+https://nyanv-live-cdn.mncnow.id/live/eds/soccerchannel-HD/sa_dash_vmx/soccerchannel-HD.mpd
+
+#EXTINF:-1  group-title="Kualifikasi Piala Eropa" tvg-logo="https://i.postimg.cc/qvdX4wnp/BG-LIVE-EVENT.png",02.45 WIB | Makedonia Utara vs Malta
+https://webudit.onlinewebtv.lol/lb/premium429/index.m3u8?|referer=https://widevine.licenses4.me/&user_agent=Mozilla/5.0 (Linux; Android 11; SM-A307GN Build/RP1A.200720.012; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/107.0.5304.91 Mobile Safari/537.36 Vinebre
+
+#EXTINF:-1  group-title="Kualifikasi Piala Eropa" tvg-logo="https://i.postimg.cc/J0wPfL5Q/BG-LIVE-EVENT.png",02.45 WIB | Denmark vs Finlandia
+https://no2.onlinewebtv.lol/ddy1/premium550/tracks-v1a1/mono.m3u8?|referer=https://widevine.licenses4.me/&user_agent=Mozilla/5.0 (Linux; Android 11; SM-A307GN Build/RP1A.200720.012; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/107.0.5304.91 Mobile Safari/537.36 Vinebre
+
+#EXTINF:-1  group-title="Kualifikasi Piala Eropa" tvg-logo="https://i.postimg.cc/Y2GS8wPs/BG-LIVE-EVENT.png",02.45 WIB | San Marino vs Irlandia Utara
+https://ddy5.onlinewebtv.lol/ddy5/premium451/tracks-v1a1/mono.m3u8?|referer=https://widevine.licenses4.me/&user_agent=Mozilla/5.0 (Linux; Android 11; SM-A307GN Build/RP1A.200720.012; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/107.0.5304.91 Mobile Safari/537.36 Vinebre
+
+#EXTINF:-1  group-title="Kualifikasi Piala Eropa" tvg-logo="https://i.postimg.cc/jjD2DWGZ/BG-LIVE-EVENT.png",02.45 WIB | Portugal vs Liechtenstein
+https://ddy1.onlinewebtv.lol/ddy1/premium597/tracks-v1a1/mono.m3u8?|referer=https://widevine.licenses4.me/&user_agent=Mozilla/5.0 (Linux; Android 11; SM-A307GN Build/RP1A.200720.012; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/107.0.5304.91 Mobile Safari/537.36 Vinebre
+
+#EXTINF:-1  group-title="Kualifikasi Piala Eropa" tvg-logo="https://i.postimg.cc/tT0Rv9g5/BG-LIVE-EVENT.png",02.45 WIB | Slovakia vs Luxembourg
+https://webudit.onlinewebtv.lol/lb/premium416/index.m3u8?|referer=https://widevine.licenses4.me/&user_agent=Mozilla/5.0 (Linux; Android 11; SM-A307GN Build/RP1A.200720.012; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/107.0.5304.91 Mobile Safari/537.36 Vinebre
+
+#EXTINF:-1  group-title="Kualifikasi Piala Eropa" tvg-logo="https://i.postimg.cc/YqVSLNwZ/BG-LIVE-EVENT.png",02.45 WIB | Bosnia and Herzegovina vs Islandia
+https://webudit.onlinewebtv.lol/lb/premium468/index.m3u8?|referer=https://widevine.licenses4.me/&user_agent=Mozilla/5.0 (Linux; Android 11; SM-A307GN Build/RP1A.200720.012; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/107.0.5304.91 Mobile Safari/537.36 Vinebre
+
 
 ========== Friendly Match ==========
 
@@ -18,7 +42,6 @@ https://webudit.onlinewebtv.lol/lb/premium588/index.m3u8?|referer=https://widevi
 
 #EXTINF:-1  group-title="Friendly Match" tvg-logo="https://i.postimg.cc/kXXMtTDM/BG-LIVE-EVENT.png",21.00 WIB | Malaysia vs Turkmenistan
 http://iptvtree.net:8080/F11682/82ca5fbd/157485
-
 
 ========== Kualifikasi Euro U-17 ==========
 
@@ -129,9 +152,6 @@ https://prod-drm-vidio-com-ctv-worldcup2.akamaized.net/out/v1/c8e8c362328d4b0fa9
 #KODIPROP:inputstream.adaptif.license_key=https://lsbtv.livestreaming.repl.co/pemutar/nsplayer/ctvwc2key.html
 #EXTINF:-12 tvg-id="12" tvg-name="Channel 2" tvg-logo="https://i.postimg.cc/ryZN57XF/Champions-TV-World-Cup.png" group-title="Sports",Champions TV World Cup 2
 https://prod-drm-vidio-com-ctv-worldcup2.akamaized.net/out/v1/c8e8c362328d4b0fa97b2c3a8b934114/index.mpd
-
-#EXTINF:-13 tvg-id="1" tvg-name="Channel 2" tvg-logo="https://i.postimg.cc/q7WfVpyy/Viaplay-Sport.png" group-title="Sports",Viaplay Sports
-https://no2.onlinewebtv.lol/ddy1/premium550/tracks-v1a1/mono.m3u8?|referer=https://widevine.licenses4.me/&user_agent=Mozilla/5.0 (Linux; Android 11; SM-A307GN Build/RP1A.200720.012; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/107.0.5304.91 Mobile Safari/537.36 Vinebre
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://maxstream.my.id/license-proxy-widevine/cenc/?specConform=true#zLWE0NzktZWI2NGIxMjRmMGFm
@@ -1073,6 +1093,26 @@ https://newtest.onlinewebtv.lol/ddy6/premium572/tracks-v1a1/mono.m3u8?|referer=h
 
 #EXTINF:-1  group-title="Sports" tvg-logo="https://i.postimg.cc/7YN01tsm/Super-Sport-Maximo-1.png",SuperSport Maximo 1 Afrika Selatan
 https://newtest.onlinewebtv.lol/ddy6/premium572/tracks-v1a1/mono.m3u8?|referer=https://widevine.licenses4.me/&user_agent=Mozilla/5.0 (Linux; Android 11; SM-A307GN Build/RP1A.200720.012; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/107.0.5304.91 Mobile Safari/537.36 Vinebre
+
+========== UNITED KINGDOM ==========
+
+#EXTINF:-13 tvg-id="1" tvg-name="Channel 2" tvg-logo="https://i.postimg.cc/q7WfVpyy/Viaplay-Sport.png" group-title="United Kingdom",Viaplay Sports 1
+https://ddy5.onlinewebtv.lol/ddy5/premium451/tracks-v1a1/mono.m3u8?|referer=https://widevine.licenses4.me/&user_agent=Mozilla/5.0 (Linux; Android 11; SM-A307GN Build/RP1A.200720.012; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/107.0.5304.91 Mobile Safari/537.36 Vinebre
+
+#EXTINF:-13 tvg-id="1" tvg-name="Channel 2" tvg-logo="https://i.postimg.cc/q7WfVpyy/Viaplay-Sport.png" group-title="Sports",Viaplay Sports 1 UK
+https://ddy5.onlinewebtv.lol/ddy5/premium451/tracks-v1a1/mono.m3u8?|referer=https://widevine.licenses4.me/&user_agent=Mozilla/5.0 (Linux; Android 11; SM-A307GN Build/RP1A.200720.012; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/107.0.5304.91 Mobile Safari/537.36 Vinebre
+
+#EXTINF:-13 tvg-id="1" tvg-name="Channel 2" tvg-logo="https://i.postimg.cc/q7WfVpyy/Viaplay-Sport.png" group-title="United Kingdom",Viaplay Sports 2
+https://no2.onlinewebtv.lol/ddy1/premium550/tracks-v1a1/mono.m3u8?|referer=https://widevine.licenses4.me/&user_agent=Mozilla/5.0 (Linux; Android 11; SM-A307GN Build/RP1A.200720.012; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/107.0.5304.91 Mobile Safari/537.36 Vinebre
+
+#EXTINF:-13 tvg-id="1" tvg-name="Channel 2" tvg-logo="https://i.postimg.cc/q7WfVpyy/Viaplay-Sport.png" group-title="Sports",Viaplay Sports 2 UK
+https://no2.onlinewebtv.lol/ddy1/premium550/tracks-v1a1/mono.m3u8?|referer=https://widevine.licenses4.me/&user_agent=Mozilla/5.0 (Linux; Android 11; SM-A307GN Build/RP1A.200720.012; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/107.0.5304.91 Mobile Safari/537.36 Vinebre
+
+#EXTINF:-13 tvg-id="1" tvg-name="Channel 2" tvg-logo="https://i.postimg.cc/q7WfVpyy/Viaplay-Sport.png" group-title="United Kingdom",Viaplay Xtra
+https://ddy1.onlinewebtv.lol/ddy1/premium597/tracks-v1a1/mono.m3u8?|referer=https://widevine.licenses4.me/&user_agent=Mozilla/5.0 (Linux; Android 11; SM-A307GN Build/RP1A.200720.012; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/107.0.5304.91 Mobile Safari/537.36 Vinebre
+
+#EXTINF:-13 tvg-id="1" tvg-name="Channel 2" tvg-logo="https://i.postimg.cc/q7WfVpyy/Viaplay-Sport.png" group-title="Sports",Viaplay Xtra UK
+https://ddy1.onlinewebtv.lol/ddy1/premium597/tracks-v1a1/mono.m3u8?|referer=https://widevine.licenses4.me/&user_agent=Mozilla/5.0 (Linux; Android 11; SM-A307GN Build/RP1A.200720.012; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/107.0.5304.91 Mobile Safari/537.36 Vinebre
 
 ========== PORTUGAL ==========
 
