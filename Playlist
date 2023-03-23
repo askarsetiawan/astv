@@ -943,6 +943,38 @@ https://no2.onlinewebtv.lol/ddy1/premium43/tracks-v1a1/mono.m3u8?|referer=https:
 #EXTINF:-1  group-title="Sports" tvg-logo="https://i.ibb.co/KL0fv3y/astro-supersport.png",Astro SuperSport 5
 https://no2.onlinewebtv.lol/ddy1/premium43/tracks-v1a1/mono.m3u8?|referer=https://widevine.licenses4.me/&User-Agent=android-R+
 
+=============================================================
+
+#EXTINF:-1  group-title="Malaysia" tvg-logo="https://i.ibb.co/KL0fv3y/astro-supersport.png",Astro SuperSport 1
+http://31.220.3.170/play/live.php?mac=00:1a:79:A9:ED:C5&stream=115615&extension=ts&play_token
+
+#EXTINF:-1  group-title="Sports" tvg-logo="https://i.ibb.co/KL0fv3y/astro-supersport.png",Astro SuperSport 1
+http://31.220.3.170/play/live.php?mac=00:1a:79:A9:ED:C5&stream=115616&extension=ts&play_token
+
+#EXTINF:-1  group-title="Malaysia" tvg-logo="https://i.ibb.co/KL0fv3y/astro-supersport.png",Astro SuperSport 2
+http://iptv.dxdtv.xyz:8080/world@jcDGFsGbUpdQ/663J7yy3SPae/55544
+
+#EXTINF:-1  group-title="Sports" tvg-logo="https://i.ibb.co/KL0fv3y/astro-supersport.png",Astro SuperSport 2
+http://iptv.dxdtv.xyz:8080/world@jcDGFsGbUpdQ/663J7yy3SPae/55544
+
+#EXTINF:-1  group-title="Malaysia" tvg-logo="https://i.ibb.co/KL0fv3y/astro-supersport.png",Astro SuperSport 3
+http://iptv.dxdtv.xyz:8080/world@jcDGFsGbUpdQ/663J7yy3SPae/55545
+
+#EXTINF:-1  group-title="Sports" tvg-logo="https://i.ibb.co/KL0fv3y/astro-supersport.png",Astro SuperSport 3
+http://iptv.dxdtv.xyz:8080/world@jcDGFsGbUpdQ/663J7yy3SPae/55545
+
+#EXTINF:-1  group-title="Malaysia" tvg-logo="https://i.ibb.co/KL0fv3y/astro-supersport.png",Astro SuperSport 4
+http://iptv.dxdtv.xyz:8080/world@jcDGFsGbUpdQ/663J7yy3SPae/55546
+
+#EXTINF:-1  group-title="Sports" tvg-logo="https://i.ibb.co/KL0fv3y/astro-supersport.png",Astro SuperSport 4
+http://iptv.dxdtv.xyz:8080/world@jcDGFsGbUpdQ/663J7yy3SPae/55546
+
+#EXTINF:-1  group-title="Malaysia" tvg-logo="https://i.ibb.co/KL0fv3y/astro-supersport.png",Astro SuperSport 5
+https://no2.onlinewebtv.lol/ddy1/premium43/tracks-v1a1/mono.m3u8?|referer=https://widevine.licenses4.me/&User-Agent=android-R+
+
+#EXTINF:-1  group-title="Sports" tvg-logo="https://i.ibb.co/KL0fv3y/astro-supersport.png",Astro SuperSport 5
+https://no2.onlinewebtv.lol/ddy1/premium43/tracks-v1a1/mono.m3u8?|referer=https://widevine.licenses4.me/&User-Agent=android-R+
+
 #EXTINF:-1  group-title="Sports" tvg-logo="https://i.ibb.co/KNB2n2L/astro-cricket.png",Astro Cricket
 http://kuchini.site:8080/tomstme300/tomasarenatelegramme300/157565
 
