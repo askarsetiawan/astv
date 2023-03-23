@@ -1169,6 +1169,30 @@ http://xtv.ooo:8080/6744/6744/167575
 #EXTINF:-1  group-title="Sports" tvg-logo="https://i.postimg.cc/DfC3jZpX/Star-Sports-1.png",Star Sport 1 India
 http://xtv.ooo:8080/6744/6744/167575
 
+#EXTINF:-1  group-title="India" tvg-logo="https://i.postimg.cc/j5yfvm48/Star-Sports-2.png",Star Sport 2
+http://xtv.ooo:8080/6744/6744/167576
+
+#EXTINF:-1  group-title="Sports" tvg-logo="https://i.postimg.cc/j5yfvm48/Star-Sports-2.png",Star Sport 2 India
+http://xtv.ooo:8080/6744/6744/167576
+
+#EXTINF:-1  group-title="India" tvg-logo="https://i.postimg.cc/yxH9DZbp/Star-Sports-Select-3.png",Star Sport 3
+http://xtv.ooo:8080/6744/6744/167577
+
+#EXTINF:-1  group-title="Sports" tvg-logo="https://i.postimg.cc/yxH9DZbp/Star-Sports-Select-3.png",Star Sport 3 India
+http://xtv.ooo:8080/6744/6744/167577
+
+#EXTINF:-1  group-title="India" tvg-logo="https://i.postimg.cc/yxH9DZbp/Star-Sports-Select-3.png",Star Sport Select 1
+http://xtv.ooo:8080/6744/6744/167578
+
+#EXTINF:-1  group-title="Sports" tvg-logo="https://i.postimg.cc/yxH9DZbp/Star-Sports-Select-3.png",Star Sport Select 1 India
+http://xtv.ooo:8080/6744/6744/167578
+
+#EXTINF:-1  group-title="India" tvg-logo="https://i.postimg.cc/yxH9DZbp/Star-Sports-Select-3.png",Star Sport Select 2
+http://xtv.ooo:8080/6744/6744/167579
+
+#EXTINF:-1  group-title="Sports" tvg-logo="https://i.postimg.cc/yxH9DZbp/Star-Sports-Select-3.png",Star Sport Select 2 India
+http://xtv.ooo:8080/6744/6744/167579
+
 
 ========== AFRIKA SELATAN ==========
 
