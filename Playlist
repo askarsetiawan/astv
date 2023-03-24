@@ -1568,5 +1568,8 @@ http://xtv.ooo:8080/6744/6744/222306
 
 ========== YUNANI ==========
 
-#EXTINF:-1  group-title="Sports" tvg-logo="https://i.postimg.cc/Cxv31vNH/Nova-Sport-Yunani.png",Nova Sports Prime
+#EXTINF:-1  group-title="Yunani" tvg-logo="https://i.postimg.cc/Cxv31vNH/Nova-Sport-Yunani.png",Nova Sports Prime
+https://webudit.onlinewebtv.lol/lb/premium638/index.m3u8?|referer=https://widevine.licenses4.me/&user_agent=Mozilla/5.0 (Linux; Android 11; SM-A307GN Build/RP1A.200720.012; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/107.0.5304.91 Mobile Safari/537.36 Vinebre
+
+#EXTINF:-1  group-title="Sports" tvg-logo="https://i.postimg.cc/Cxv31vNH/Nova-Sport-Yunani.png",Nova Sports Prime Yunani
 https://webudit.onlinewebtv.lol/lb/premium638/index.m3u8?|referer=https://widevine.licenses4.me/&user_agent=Mozilla/5.0 (Linux; Android 11; SM-A307GN Build/RP1A.200720.012; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/107.0.5304.91 Mobile Safari/537.36 Vinebre
