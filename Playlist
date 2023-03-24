@@ -2,40 +2,18 @@
 
 ========== UEFA Euro Qualifying ==========
 
-#EXTINF:-1  group-title="Kualifikasi Piala Eropa" tvg-logo="https://i.postimg.cc/9QHKTSgv/BG-LIVE-EVENT.png",22.00 WIB | Kazakhstan vs Slovenia
-https://newtest.onlinewebtv.lol/ddy6/premium572/tracks-v1a1/mono.m3u8?|referer=https://widevine.licenses4.me/&user_agent=Mozilla/5.0 (Linux; Android 11; SM-A307GN Build/RP1A.200720.012; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/107.0.5304.91 Mobile Safari/537.36 Vinebre
-
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=ZjMwNDEzZTItYTdkMS0zY2NlLTljODAtZmEwYjI3ZDg0NWE0
-#EXTINF:-1  group-title="Kualifikasi Piala Eropa" tvg-logo="https://i.postimg.cc/8kr0D0WJ/BG-LIVE-EVENT.png",02.45 WIB | Italia vs Inggris
-https://nyanv-live-cdn.mncnow.id/live/eds/soccerchannel-HD/sa_dash_vmx/soccerchannel-HD.mpd
-
-#EXTINF:-1  group-title="Kualifikasi Piala Eropa" tvg-logo="https://i.postimg.cc/qvdX4wnp/BG-LIVE-EVENT.png",02.45 WIB | Makedonia Utara vs Malta
-https://webudit.onlinewebtv.lol/lb/premium429/index.m3u8?|referer=https://widevine.licenses4.me/&user_agent=Mozilla/5.0 (Linux; Android 11; SM-A307GN Build/RP1A.200720.012; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/107.0.5304.91 Mobile Safari/537.36 Vinebre
-
-#EXTINF:-1  group-title="Kualifikasi Piala Eropa" tvg-logo="https://i.postimg.cc/J0wPfL5Q/BG-LIVE-EVENT.png",02.45 WIB | Denmark vs Finlandia
-https://no2.onlinewebtv.lol/ddy1/premium550/tracks-v1a1/mono.m3u8?|referer=https://widevine.licenses4.me/&user_agent=Mozilla/5.0 (Linux; Android 11; SM-A307GN Build/RP1A.200720.012; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/107.0.5304.91 Mobile Safari/537.36 Vinebre
-
-#EXTINF:-1  group-title="Kualifikasi Piala Eropa" tvg-logo="https://i.postimg.cc/Y2GS8wPs/BG-LIVE-EVENT.png",02.45 WIB | San Marino vs Irlandia Utara
-https://ddy5.onlinewebtv.lol/ddy5/premium451/tracks-v1a1/mono.m3u8?|referer=https://widevine.licenses4.me/&user_agent=Mozilla/5.0 (Linux; Android 11; SM-A307GN Build/RP1A.200720.012; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/107.0.5304.91 Mobile Safari/537.36 Vinebre
-
-#EXTINF:-1  group-title="Kualifikasi Piala Eropa" tvg-logo="https://i.postimg.cc/jjD2DWGZ/BG-LIVE-EVENT.png",02.45 WIB | Portugal vs Liechtenstein
-https://ddy1.onlinewebtv.lol/ddy1/premium597/tracks-v1a1/mono.m3u8?|referer=https://widevine.licenses4.me/&user_agent=Mozilla/5.0 (Linux; Android 11; SM-A307GN Build/RP1A.200720.012; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/107.0.5304.91 Mobile Safari/537.36 Vinebre
-
-#EXTINF:-1  group-title="Kualifikasi Piala Eropa" tvg-logo="https://i.postimg.cc/tT0Rv9g5/BG-LIVE-EVENT.png",02.45 WIB | Slovakia vs Luxembourg
-https://webudit.onlinewebtv.lol/lb/premium416/index.m3u8?|referer=https://widevine.licenses4.me/&user_agent=Mozilla/5.0 (Linux; Android 11; SM-A307GN Build/RP1A.200720.012; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/107.0.5304.91 Mobile Safari/537.36 Vinebre
-
-#EXTINF:-1  group-title="Kualifikasi Piala Eropa" tvg-logo="https://i.postimg.cc/YqVSLNwZ/BG-LIVE-EVENT.png",02.45 WIB | Bosnia and Herzegovina vs Islandia
-https://webudit.onlinewebtv.lol/lb/premium468/index.m3u8?|referer=https://widevine.licenses4.me/&user_agent=Mozilla/5.0 (Linux; Android 11; SM-A307GN Build/RP1A.200720.012; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/107.0.5304.91 Mobile Safari/537.36 Vinebre
 
 
 ========== Friendly Match ==========
 
-#EXTINF:-1  group-title="Friendly Match" tvg-logo="https://i.postimg.cc/L4wZMzz3/BG-LIVE-EVENT.png",01.30 WIB | Hungaria vs Estonia
+#EXTINF:-1  group-title="Friendly Match" tvg-logo="https://i.postimg.cc/HkXyv51Z/BG-LIVE-EVENT.png",16.00 WIB | Australia vs Ekuador
 https://webudit.onlinewebtv.lol/lb/premium2/index.m3u8?|referer=https://widevine.licenses4.me/&user_agent=Mozilla/5.0 (Linux; Android 11; SM-A307GN Build/RP1A.200720.012; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/107.0.5304.91 Mobile Safari/537.36 Vinebre
 
-#EXTINF:-1  group-title="Friendly Match" tvg-logo="https://i.postimg.cc/G2Pvp9dm/BG-LIVE-EVENT.png",07.00 WIB | Argentina vs Panama
-https://webudit.onlinewebtv.lol/lb/premium78/index.m3u8?|referer=https://widevine.licenses4.me/&user_agent=Mozilla/5.0 (Linux; Android 11; SM-A307GN Build/RP1A.200720.012; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/107.0.5304.91 Mobile Safari/537.36 Vinebre
+#EXTINF:-1  group-title="Friendly Match" tvg-logo="https://i.postimg.cc/wTb2YDP9/BG-LIVE-EVENT.png",17.30 WIB | Jepang vs Uruguay
+https://webudit.onlinewebtv.lol/lb/premium571/index.m3u8?|referer=https://widevine.licenses4.me/&user_agent=Mozilla/5.0 (Linux; Android 11; SM-A307GN Build/RP1A.200720.012; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/107.0.5304.91 Mobile Safari/537.36 Vinebre
+
+#EXTINF:-1  group-title="Friendly Match" tvg-logo="https://i.postimg.cc/Nj74nZ1r/BG-LIVE-EVENT.png",17.30 WIB | Republik Korea vs Kolombia
+https://webudit.onlinewebtv.lol/lb/premium85/index.m3u8?|referer=https://widevine.licenses4.me/&user_agent=Mozilla/5.0 (Linux; Android 11; SM-A307GN Build/RP1A.200720.012; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/107.0.5304.91 Mobile Safari/537.36 Vinebre
 
 
 ========== Kualifikasi Euro U-17 ==========
@@ -1319,6 +1297,15 @@ https://webudit.onlinewebtv.lol/lb/premium145/index.m3u8?|referer=https://widevi
 
 #EXTINF:-1  group-title="Sports" tvg-logo="https://i.postimg.cc/QCg00qJb/Sport-5-Plus-Israel.png",Sport 5 Plus Israel
 https://webudit.onlinewebtv.lol/lb/premium145/index.m3u8?|referer=https://widevine.licenses4.me/&user_agent=Mozilla/5.0 (Linux; Android 11; SM-A307GN Build/RP1A.200720.012; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/107.0.5304.91 Mobile Safari/537.36 Vinebre
+
+========== BRAZIL ==========
+
+#EXTINF:-1  group-title="Brazil" tvg-logo="https://i.postimg.cc/mDjfjBHR/ESPN.png",ESPN 4
+https://webudit.onlinewebtv.lol/lb/premium85/index.m3u8?|referer=https://widevine.licenses4.me/&user_agent=Mozilla/5.0 (Linux; Android 11; SM-A307GN Build/RP1A.200720.012; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/107.0.5304.91 Mobile Safari/537.36 Vinebre
+
+#EXTINF:-1  group-title="Sports" tvg-logo="https://i.postimg.cc/mDjfjBHR/ESPN.png",ESPN 4 Brazil
+https://webudit.onlinewebtv.lol/lb/premium85/index.m3u8?|referer=https://widevine.licenses4.me/&user_agent=Mozilla/5.0 (Linux; Android 11; SM-A307GN Build/RP1A.200720.012; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/107.0.5304.91 Mobile Safari/537.36 Vinebre
+
 
 ========== ESPANYOL ==========
 
